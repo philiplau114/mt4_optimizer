@@ -1,0 +1,4 @@
+openai.txt
+run ai set optimizer.txt
+.env
+*.env
