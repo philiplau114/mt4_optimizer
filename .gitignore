@@ -2,3 +2,8 @@ openai.txt
 run ai set optimizer.txt
 .env
 *.env
+*.log
+*.txt
+*.json
+secrets/
+# and any config file or directory where you might store API keys
