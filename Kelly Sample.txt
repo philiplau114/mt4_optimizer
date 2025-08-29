@@ -1,0 +1,93 @@
+Please help me to design the database structure to allow me to complete the workflow for this project:
+folder	decription	Set Version	Step
+User Input	original set file	1	0
+MT4 Backtest	backtest_report location	1	1
+Optimization	optimization_result	1	2
+Best Pass	best_pass.set	1.1	3
+Lot Analysis	lot_analysis, ai_recommendation.json	1.2	4
+Final Backtest	final_set.set	1.3	5
+Reporting	dashboard.json, summary.csv, etc.	1.3	6
+
+We have designed following database:
+CREATE TABLE set_file_jobs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id TEXT,
+    original_file TEXT,
+    symbol TEXT,
+    timeframe TEXT,
+    ea TEXT,
+    set_version TEXT,
+    current_step INTEGER,
+    status TEXT,
+    created_at TEXT,
+    updated_at TEXT
+);
+
+CREATE TABLE set_file_steps (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    job_id INTEGER,
+    step_number INTEGER,
+    step_name TEXT,
+    file_path TEXT,
+    description TEXT,
+    version TEXT,
+    meta_json TEXT,
+    processed_at TEXT,
+    status TEXT,
+    FOREIGN KEY (job_id) REFERENCES set_file_jobs(id)
+);
+
+CREATE TABLE set_file_artifacts (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    step_id INTEGER,
+    artifact_type TEXT,
+    file_path TEXT,
+    meta_json TEXT,
+    FOREIGN KEY (step_id) REFERENCES set_file_steps(id)
+);
+
+and after each time of backtest, will produce the backtest report:
+e.g. sample metrics:
+Strategy Tester Report
+Ace Falcon Std v3.41
+VantageInternational-Demo (Build 1441)
+
+Symbol	EURSGD (Euro vs Singapore Dollar)
+Period	1 Minute (M1) 2024.01.02 01:56 - 2025.07.21 23:59 (2024.01.01 - 2025.07.22)
+Model	Every tick (the most precise method based on all available least timeframes)
+Parameters	_______________________________________________bs="========= General Setting ========="; Full_Speed=true; EnterMode=1; TradeMode=2; TradeType=0; Maximum_Spread=5; Magic=7777; Id_Comment="AceFalconStd V3.41"; _______________________________________________ma="========= Entry Settings ========="; TradeTF=1; Bars_Counted=90; Strategy_Reverse=true; _______________________________________________fs="========= Filter Settings ========="; EMA_Filter=true; MATF=1; EMA1=50; EMA2=20; Filter_Upper_Lower=false; Upper_Lower_Mult=2; Max_Gap=0; Max_Gap_ALL=false; _______________________________________________mmss="========= Money Manage Simple ========="; Using_Money_Manage_Simple=false; SL_Range_Multiplier=0; TP_Range_Multiplier=0; Partial_Close_Multiplier=0; Set_Breakeven=false; _______________________________________________mmms="========= Risk Control Settings ========="; DrawDown_Stop_New_Money=200; DrawDown_Stop_New_Perc_=50; DrawDown_SL_Money=500; Stop_Trading_SLDay=10; __L="****** Lot Manage ******"; Lot_Type=2; Lot_Size=0.04; Risk_Equity=0.1; Lot_Multiplier=1.5; MaxLot=1.5; Custom_Lot="0.02,0.04,0.06,0.08,0.1,0.12,0.14,0.16,0.2"; __M="****** Martingala Manage ******"; Use_Indicators_Martingala=false; SL_Number_Of_Order=4; Pause_Between=1; Pause_Between_Bars=0; Martingala_Pips=0; Custom_Martingala="30,35,40,45,60,60,75,75,90, 100, 100"; OrderDynamic=1000; Pips_Dynamic=50; Dynamic_Distance_Multiplier=1.5; Atr_distance=true; AtrPeriod=3; AtrMult=2; AtrTF=60; _______________________________________________es="========= Exit Settings ========="; Trailing=true; Trailing_Start1=10; Trailing_Distance1=0; Trailing_Start2=8; Trailing_Distance2=0; Fix_Stop_Money=0; Fix_Profit_Money=0; Fix_Stop_Pips=0; Breakeven_=0; _______________________________________________tts="****** Trading Time Settings ******"; Trading_Sesion=false; TradingStartHours=8; TradingStartMinutes=0; TradingStartSeconds=0; TradingEndHours=22; TradingEndMinutes=0; TradingEndSeconds=0; TimeS=0; Apply_TimeSesion=0; _______________________________________________ds="========= Visual Setting ========="; Advanced_Visuals=true; Show_Statuts=true; Show_Profits=true; Show_Breakeven_Points=true; SizeX_=220; SizeY_=205; FontSize=8; Show_Zone=false; Zone_Color=Gray; clr_BE_Buy=Green; clr_Buy_Profits=Lime; clr_Buy_Loss=Lime; clr_BE_Sell=Red; clr_Sell_Profits=Salmon; clr_Sell_Loss=Salmon;
+Bars in test	576911	Ticks modelled	34772680	Modelling quality	99.90%
+Mismatched charts errors	0				
+Initial deposit	1000.00			Spread	20
+Total net profit	1635.81	Gross profit	4598.18	Gross loss	-2962.37
+Profit factor	1.55	Expected payoff	0.85		
+Absolute drawdown	15.98	Maximal drawdown	466.82 (18.62%)	Relative drawdown	18.62% (466.82)
+Total trades	1923	Short positions (won %)	988 (81.98%)	Long positions (won %)	935 (76.58%)
+Profit trades (% of total)	1526 (79.36%)	Loss trades (% of total)	397 (20.64%)
+Largest	profit trade	41.67	loss trade	-65.46
+Average	profit trade	3.01	loss trade	-7.46
+Maximum	consecutive wins (profit in money)	32 (52.72)	consecutive losses (loss in money)	4 (-228.16)
+Maximal	consecutive profit (count of wins)	53.64 (27)	consecutive loss (count of losses)	-228.16 (4)
+Average	consecutive wins	5	consecutive losses	1
+
+and trade record as attached
+
+and also have the Trade Analysis output of kelly_montecarlo_lotsize
+=== Trade Analysis ===
+win_rate: 79.36%
+avg_win: 3.0130471821756224
+avg_loss: -7.462695214105794
+profit_factor: 1.5519375972511482
+total_trades: 1923
+max_win: 41.67
+max_loss: -65.46
+
+=== Kelly Sizing & Monte Carlo Drawdown ===
+Profile                   Kelly    Risk %   MedianDD   95%DD      99%DD
+Conservative (0.25 Kelly) 0.071   7.1%   46.8%     61.9%     70.0%
+Moderate (0.5 Kelly)      0.141   14.1%   75.8%     89.1%     93.2%
+Aggressive (Full Kelly)   0.282   28.2%   97.7%     99.8%     100.0%
+
+and also prepare data for the strategy dashboard as attached image
+
+please help me to define the database structures to record workflow and support record above information

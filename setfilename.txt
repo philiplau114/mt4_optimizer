@@ -1,0 +1,254 @@
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\AUDCAD M30 P3385 DD374 T2632 PF2.24 20200101-20250619.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Cobra\24-Jul-2025 - 3000U\Cobra Prem_XAUUSD_buy_$3000U_1500pips.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 AUDCHF M30 (10..5) (3) 2000 P7339 DD698 T784 220501-250615.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 AUDNZD M30 (7.4) (3) 2000 P3331 DD447 T629 220501-250620 SL530.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 AUDUSD M30 (10.92) (3) 2000 P7652 DD887 T1058 220501-250615 SL900.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 CADCHF M30 (6.9) (3) 2000 P3721 DD506 T564 220501-250620 SL590.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 EURGBP M30 (10.63) (3) 2000 P6242 DD545 T344 220501-250620 SL650.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 GBPNZD M30 (10.78) (3) 2000 P9209 DD996 T1106 220101-250620 SL1010.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 GBPUSD M30 (8.59) (3) 2000 P5652 DD615 T578 220501-250615.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 NZDCHF M30 (11.3) (3) 2000 P6298 DD538 T611 220101-250620 SL650.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 NZDUSD M30 (7.48) (3) 2000 P3896 DD518 T416 220501-250620 SL620.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 USDCAD M30 (8.22) (3) 2000 P5407 DD916 T918 220101-250620 SL850.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC3.41 EURSGD M1 P1792 DD97 T3162 PF18.5 20230101-20250715(10%SL150).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT-PF1.32.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT-PF1.35.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT-PF1.38.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_SET.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Athena\FC3.4 AUDCAD H1 P2322 DD502 PF2.39 202001-202408 T581.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Athena\FC3.4 EURUSD M30 P3399 DD890 PF2.10 202001-202408 T928.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Kenny\FC3.4 BTCUSD M30 4083766 DD361800 TP1980 2.69 20210101-20231203  (Xlot).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Kenny\FC3.4 BTCUSD M5 2023 DD208 TP966 1.52 20240101-20240803.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Kenny\FC3.4 BTCUSD M5 30223 DD10851 TP11266 1.19 20230101-20240803.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B15-輝\FC3.4 EURUSD M30 Short Only P1041 DD228 PF1.91 T946 202201-202409\FC3.4 EURUSD M30 Short Only P1041 DD228 PF1.91 T946 202201-202409.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B15-輝\FN Std 3.4 AUDNZD M30 3000 PF 914 DD 220 T1166 20220103 - 20240909\FN Std 3.4 AUDNZD M30 3000 PF 914 DD 220 T1166 20220103 - 20240909.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B15-輝\FN3.4 Std EURGBP M30 3000 P1777 DD 516 T825 20220103 - 20240908\FN3.4 Std EURGBP M30 3000 P1777 DD 516 T825 20220103 - 20240908.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B16 - Rick\FN3.41 EURCAD M15 1000 P168400 D8225 T1135 PF2.61 xlot0.02 2022104-202502.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B16 - Rick\FN3.41 EURCAD M15 1000 P2080 DD762 T1386 PF2.31 2020-2024.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FC3.4 AUDUSD H1 P1248 DD362 PF1.84 T1249 2201-2408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FC3.4 EURUSD M30 P2233 DD1298 PF1.73 T1829 2201-2408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FC3.4 NZDCAD M30 P1444 DD904 PF1.94 T1668 2201-2408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FCSTDV3.4 AUDCAD M5 P509 DD245 PF1.29 T1298 202201-202408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\PX STDV3.7 NZDCAD M5 P579 DD110 PF1.58 T943 202201-202408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\PXSTDV3.7 EURUSD M5 P2085 DD886 PF7.4 T76 202202-202408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Anthony\FC3.4 US100 3000 M15 TP3536 DD1305 TT1060 PF1.74 2201-2409A5.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.4 AUDCAD M5 XLot.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.4 XAUUSD M1 P2235 DD1242 T1045 20230101-20241027 (BUY).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDCAD M5 P1363 DD475 PF2.57 T720 2022121-20241125 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDCAD M5 P162909 DD38943 PF2.45 T2190 20220101-20241129 (XLot).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDNZD M5 P2106 DD551 PF13.98 T79 20221121-20241122 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDNZD M5 P21220 DD414 PF2.47 T212 20221121-20241125 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDUSD M15 P1679 DD312 PF5.42 T241 20221121-20241125 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 EURUSD H1  XLot 20220101-20250110.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 EURUSD H1 P195765 DD109447 PF3.78 T255 20220101-20250110 (XLot).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 NZDCAD M15 P1401 DD419 PF2.43 T488 2022121-20241125 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 NZDCAD M15 P18572 DD8317 PF4.11 T216 20220101-20250110 (XLot).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 USDCAD M15 P1190 D380 PF1.99 T675 20221121-20241125 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 AUDCAD M5 P2011 DD309 PF2.67 T1049 20220101-20240904 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 AUDUSD M15 P2051 DD312 PF3.91 T566 20220101-20240905 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 EURUSD H1 P702 DD327 PF2.48 T260 20220101-20240910 (SELL)(ID1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 EURUSD H1 PP2692 DD528 PF2.60 T448 20220101-20240906.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 EURUSD M5 P1531 DD431 PF1.92 T962 20220101-20240830 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 NZDCAD M15 P2039 DD442 PF2.52 T658 20220101-20240904 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 NZDUSD H1 P1037 DD493 PF2.39 T394 20220101-20240911 (ID1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 NZDUSD M30 P1793 DD479 PF1.96 T653 20220101-20240906.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 USDCAD M30 P2047 DD557 PF1.83 T526 22020101-20240906.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B19 - Clement\FC3.4 USDCAD M15 5000 PF1680 DD352 202201-202408 T966 SET.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21 - Nicky\FC3.4 AUDUSD M5 XLOT300 (SL500) TP3178 DD429 TT1317 PF2.99 202201-202408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21 - Nicky\FC3.4 EURUSD M30 (SL400) TP1419 DD283 TT930 PF2.16 202008-202408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21 - Nicky\FC3.4 NZDUSD M15 (SL400) P1934 DD266 TT733 PF2.68 20200101-202408.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21- Lawrence\FC3.4 AUDCAD M30 500 PF2.98 TP1336 DD379 20220101-20240826 T700 SL400.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21- Lawrence\FX3.7 AUDCAD M30 5000 PF1.69 TP477 DD143 20220101-20240807 T518 SL60.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Benson\FC3.4 USDCAD PerTick StyleC H1 2000 P5841 PF1.99 DD951 T687 20220101-20240906 (SL 50 pct).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Johnny\FC3.4 EURCHF H1 2000 NP5182 DD982 PF3.42 TT1128 20220103-20240906 (8% @Mth)(Verified).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Johnny\FC3.4 EURCHF H1 2000 NP5182 DD982 PF3.42 TT1128 20220103-20240906 (8% @Mth).42 TT1128 20220103-20240906 (8% @Mth).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Johnny\FC3.4 EURSGD M1 2500 PF1.8 P7893 DD1104 T1734 2022-20240909 (SL4 order).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Sa\FC3.4 EURSGD M1 2500 PF1.8 P7893 DD1104 T1734 2022-20240909 (SL4 order).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Caroline\Xlot BTCUSD 4500 P9304 D7027 T2114 20220101-20241130.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Caroline\FC EURSGD\FC3.4 EURSGD M1 1397 P220 DD409  PF1.65 T1805 202201-202401105(SL300).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FC3.4 NZDUSD 2000 M5 P27975 DD4502 T956 PF2.61 20200101-202408 (type C,notLS,Xlot).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FN3.4 AUDCAD  M5 1000 P145082 DD86661 PF2.07 T2678 20220101-20241207 (EDIT LOT, XDIS)new.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FN3.4 AUDCAD  M5 300 P44106 DD26275 PF2.07 T2675 20220101-20241207 (EDIT LOT, XDIS)new.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FN3.4 AUDCAD  M5 500 P15048 DD4839 PF2.81 T1050 20220101-20241207 ( XLOT  Xdis)new.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Lenna\FC_HK50_M1_3000_P1447_DD2720_T1866_20220101_20240930_SET.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Lenna\FC_HK50_M1_3000_P859_DD2818_T875_20220101_20240930_SET.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - SN\FC 3.4 AUDUSD H1 P1000 DD345 20220101-20241103 T1156.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - SN\FC 3.4 AUDUSD H1 P1158 DD529 20220101-20241103 T293.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - SN\FC 3.4 EURUSD H1 P1048 DD313 20220101-20241103 T971.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDCAD 2000 M5 P1869 DD349 TP4.71 T508 20220101-20241019 (SL400).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDCAD 500 M30 P583554 DD378890 TP2.57 T541 20220101-20241030 (Xlot).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDCHF 2000 M30 P775 DD355 TP3.05 T358 20220101-20241030 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDNZD 2000 M30 P579 DD196 TP3.5 T526 20220101-20241030 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 EURUSD 2000 H1 P2138 DD625 TP2.68 T561 20220101-20241019 (SL400).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 GBPUSD 2000 M5 P1853 DD683 TP1.4 T1559 20220101-20241019 (SL400).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dr\Falcon v3.4 AUDNZD 1000 M15 PF2337 DD290 20220101-20241101 T3049 Long & Short 0.5 SL.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dr\FC3.4 EURUSD 2000 H1 P2138 DD625 TP2.68 T561 20220101-20241019 (SL400).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 AUDUSD H1 500 PF942 DD436 20221105-20241105 T865 (SL0).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURSGD M1 500 PF5312 DD849 20221105-20241105 T1104 (SL0).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURUSD H1 500 PF1822 DD739 T309 20221102-20241102.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 NZDCAD H1 500 PF440 DD225 20221105-20241105 T302 (SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 NZDUSD M15 500 PF902 DD315 20221105-20241105 T382 (SL400).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 AUDUSD H1 500 PF942 DD436 20221105-20241105 T865 (SL0).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURSGD M1 500 PF5312 DD849 20221105-20241105 T1104 (SL0).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURUSD H1 500 PF1822 DD739 T309 20221102-20241102.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 NZDCAD H1 500 PF440 DD225 20221105-20241105 T302 (SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 NZDUSD M15 500 PF902 DD315 20221105-20241105 T382 (SL400).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\FC3.4 AUDUSD H1 P6230 D2292 22021226-20241226 T503 SL3500.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\FC3.4 AUDUSD M5 500 P62910 XLOT T568 20221110-20241110.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\PX3.7 EURUSD M30 P8444 D2251 20221226-20241226 T150 SL3000.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\PX3.7 NZDUSD M30 P5956 D2326 20221226-20241226 T76 SL3000.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\PX3.71 USDCAD M30 P7209 D2078 20221226-20241226 T199 SL3000.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_AUDCAD_H1_2000_P1981_D878_PF3.19_T710_20220101-20241029_(SL500)lot0.02.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_AUDUSD_M15_2000_P2568_D442_PF3.82_T513_20220101-20241029_(SL500)lot0.02.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_EURCHF_H1_2000_P6143_D2820_PF2.55_T1320_20220101-20241029_(SLNil)lot0.02.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_EURUSD_H1_2000_P1432_DD434_PF2.31_T372_20220101-20241029_(SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_NZDCAD_H1_2000_P771_D249_PF3.36_T536_20220101-20241030_(SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - John\C29 - John (FC3.41) BT\FC3.4 USDCHF M30 P918 DD389 T826 20200101-20241231 (SL 500)\FC3.4 USDCHF M30 P918 DD389 T826 20200101-20241231 (SL 500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - John\C29 - John (FC3.41) BT\FC3.4 XAUUSD M15 P3084 DD2524 T613 20200101-20241231\FC3.4 XAUUSD M15 P3084 DD2524 T613 20200101-20241231.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - Maurice Li\Falcon Homework by Maurice\C29 Maurice FC3.41 AUDUSD ID500 M30 PP3980 DD964 PF1.77 T1875 20220101-20241228 (SL2000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - Maurice Li\Falcon Homework by Maurice\C29 Maurice FC3.41 EURSGD ID500 M1 PP1824 DD490 PF1.24 T3976 20220101-20241228 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - Maurice Li\Falcon Homework by Maurice\C29 Maurice FC3.41 NZDUSD ID500 M1 PP1985 DD682 PF1.88 T957 20220101-20241229 (SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Falcon  XAUUSD M15 P13237 DD2192 PF1.26 T794  20200101-20250101.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Falcon  XAUUSD M5 P10560 DD2943 PF1.2 T560  20200101-20250101.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Falcon +Lotto .set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Palcon  XAUUSD M15 P7742 DD2319 PF1.08 T1444 20200101-20250101.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - 鑑仔\FN3.41 AUDCAD M15  P2847 DD695 PE1.64 T848  20200101-202503(SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - 鑑仔\FN3.41 NZDCAD M15 P2988 DD562 P2.38 T600 20200101-202503(SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Checked\FC3.4 AUDCAD M30 5000 PF1.69 TP478 DD137 20220101-20240807 T525 SL60 (C21 Lawrence).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D32 Helen\FN EURSGD 1000 M1 P4657 DD552 PF1.34 T7649 custom reversal 20220101-20250409 (SL500) Tmgm (updated).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D33 - Dennis\Dennis FN3.41 AUDUSD H4 P3389 DD435 PF4.4 T542 20210101-20250321 (SL500)\Dennis FN3.41 AUDUSD H4 P3389 DD435 PF4.4 T542 20210101-20250321 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D33 - Dennis\Dennis FN3.41 AUDUSD H4 P792152 DD225093 PF6.05 T543 20210101-20250321 (xLot DP500)\Dennis FN3.41 AUDUSD H4 P792152 DD225093 PF6.05 T543 20210101-20250321 (xLot DP500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D36 - 6204\FN3.5 GBPUSD M15 D694 P1823 T684 XLOT0.02 20230101-20250302.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D40 - Bowie\D40 Bowie FN3.41\FN3.41 AUDUSD H1 P1578 DD588 T460 20230522 20250521 (SL600).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D40 - Bowie\D40 Bowie FN3.41\FN3.41 GBPUSD M15 P1223 DD556 PF1.53 T842 20230522-20250519 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D40 - Bowie\D40 Bowie FN3.41\FN3.41 NZDCAD M15 P1420 DD434 T453 20230522 20250521 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 EURUSD H1 P1811 DD549 T511 PF3.58 20220101-20240803 (SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 EURUSD M15 P10238 DD3426 PF2.03 T1423 20220101-20240911 (SL 11 level).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 EURUSD M15 P2540 DD775 PF2.15 T1164 20220101-20241003.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 GBPUSD M30 P2663 DD1022 PF1.77 T841 20220101-20240926.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 XAUUSD M1 P2955 DD1000 T152 20240101-20241024.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Non Farm Set\FC3.4 M1 XAUUSD Breakout30M 1lot TP (50pips,tral10) SL (200dollar).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCAD H1 D204 P1375 T261 Custom(0.02,0.02,0.04,0.08,0.12,0.16,0.2) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCHF M5 D206 P1306 T1060 Custom(0.01,0.01,0.01,0.02,0.02,0.02,0.03,0.03,0.06) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCHF M5 P2565 DD378 T850 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDJPY M15 D297 P1178 T1239 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.08)(Long only) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDNZD M15 D251 P732 T1257 Custom(0.01,0.01,0.02,0.03,0.05,0.08,0.08,0.16,0.2) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDUSD H1 D245 P1648 T756 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.06,0.12,0.18,0.36,0.5) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDUSD M30 D994 P3471 T384 Custom(0.02,0.03,0.04,0.08,0.12,0.15,0.19) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDUSD M5 D491 P2057 T1631 Custom(0.01,0.01,0.02,0.02,0.03,0.05,0.07,0.09,0.09) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CADCHF M15 D394 P955 T753 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CADCHF M15 D473 P1458 T859 Custom(0.01,0.02,0.03,0.06,0.1,0.14,0.18,0.2,0.3) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CHFJPY M15 D96 P673 T1224 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURCAD H1 D477 P1564 T854 Dynamic(0.05x1.5) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURSGD M15 D297 P1594 T2033 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.06,0.08) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURSGD M15 D620 P2650 T1856 Custom(0.02,0.02,0.03,0.03,0.04,0.06,0.08,0.1,0.13,0.16) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURUSD H1 D864 P2264 T461 Custom(0.01,0.01,0.02,0.04,0.08,0.1,0.13,0.17) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURUSD M15 D684 P2669 T1311 Custom(0.01,0.01,0.02,0.02,0.03,0.04,0.08,0.12,0.16,0.2) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURUSD M5 D445 P1951 T1704 Custom(0.01,0.01,0.02,0.02,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCAD M15 D490 P1785 T1361 Custom(0.02,0.02,0.03,0.03,0.04,0.06,0.09) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCAD M15 D525 P2270 T2019 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.06,0.09) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCHF M15 D447 P1819 T789 Custom(0.02,0.02,0.03,0.03,0.04,0.06,0.09) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCHF M30 D610 P1784 T1542 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPNZD M30 D125 P894 T857 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPNZD M30 D178 P1327 T1297 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M30 D603 P2597 T457 Dynamic(0.1x1.272) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D107 P1038 T1446 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D128 P1307 T1859 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D87 P826 T1175 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D2699 P24255 T659 Static(0.5) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D458 P1630 T248 Custom(0.1,0.15,0.23,0.35) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D461 P1641 T248 Custom(0.1,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D539 P4850 T659 Static(0.1) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF M15 D120 P879 T973 Custom(0.02,0.02,0.02) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF M15 D284 P1461 T506 Dynamic(0.05x1.5) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF M5 D355 P1871 T305 Custom(0.02,0.04) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDSGD M30 D292 P1185 T90 Dynamic(0.1x2) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDUSD H1 D177 P1234 T573 Custom(0.01,0.01,0.02,0.03,0.06,0.09,0.12) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCAD M15 D197 P1180 T911 Custom(0.01,0.01,0.02,0.04,0.08,0.16,0.32,0.64) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCAD M15 D395 P2324 T907 Custom(0.02,0.02,0.04,0.08,0.16,0.32,0.64) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCHF H4 D126 P308 T74 Custom(0.03,0.05,0.05,0.07,0.07,0.1,0.1) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCHF M15 D318 660 T382 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.08) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDJPY M15 D268 P931 T792 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.08) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Test\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Xlot\FC3.4 AUDUSD M5 500 P62910 XLOT T568 20221110-20241110.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC 3.4 AUDUSD H1 PF1365 DD441 20220101-20240831 T1284.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC 3.4 NZDCHF M15 PF929 DD180 20220101-20240825 T1010 (SL 200).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 -CHLOE-AUDCAD -C-M5-202105-2403-P3174 DD341 T2245 R9.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 AUDCAD M5 500 D105092 P523564 T2142 (15,15,30,30,45,45,60,60,75,75,90) (Dynamic 0.05x1.272) Trialing11-5.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 GBPCAD M30 D538 D1883 T1202 (0.02,0.02,0.03,0.03,0.04,0.06,0.08,0.12)(ATR M30) 202201-202403.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 GBPCAD M5 PF4049 DD1394 202201-202404 T3483.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 NZDCAD H1 D213 P1882 T397 A Mode_0.1SL 202201-202402.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT-926.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT-253.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 AUDCHF M30 (10..5) (3) 2000 P7339 DD698 T784 220501-250615.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 AUDNZD M30 (7.4) (3) 2000 P3331 DD447 T629 220501-250620 SL530.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 AUDUSD M30 (10.92) (3) 2000 P7652 DD887 T1058 220501-250615 SL900.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 CADCHF M30 (6.9) (3) 2000 P3721 DD506 T564 220501-250620 SL590.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 EURGBP M30 (10.63) (3) 2000 P6242 DD545 T344 220501-250620 SL650.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 GBPNZD M30 (10.78) (3) 2000 P9209 DD996 T1106 220101-250620 SL1010.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 NZDCHF M30 (11.3) (3) 2000 P6298 DD538 T611 220101-250620 SL650.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1-Lot-Med.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1-Lot.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627_OPT-190.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406_OPT-3.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDUSD M5 D491 P2057 T1631 Custom(0.01,0.01,0.02,0.02,0.03,0.05,0.07,0.09,0.09) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT-926.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M30 D178 P1327 T1297 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT-253.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 AUDUSD M5 D491 P2057 T1631 Custom(0.01,0.01,0.02,0.02,0.03,0.05,0.07,0.09,0.09) 202201-202406.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT-926.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT-253.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\AUDCAD M30 P3385 DD374 T2632 PF2.24 20200101-20250619-1.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\AUDCAD M30 P3385 DD374 T2632 PF2.24 20200101-20250619.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Adam PX3.71 EURGBP H1 P1827 DD412 PF1.98 T757 20200101-20250606.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Eric PX3.71 GBPNZD M30 P1424 DD294 PF2.2 T1331 20200101- 20250525.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Jacko PX3.71 EURCAD M30 P2066 DD489 PF2.6 T1099 SL600 20200101-20250523.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Kenix XAUUSD 3000 M30 P2710 DD416 PF4.51 T436 20230101-20250527 (SL420).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Lawrence PX3.71 AUDUSD M30 P3120 DD563 PF2.27 T1087 2020101-20250604.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 PX3.71 RAY AUDNZD H1 P2021 DD680 T762 (SL750) 20200101-20250527.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 PX3.71 RAY AUDNZD H1 P958 DD369 T808 (SL500) 20200101-20250527.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Rocky PX3.71 M30 AUDCAD P4835 DD854 T1628 20210101-20250523(SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Rocky PX3.71 M30 GBPUSD P3018 DD752 T1355 20200101-202250523(SL1000).set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Vincent PX3.71 NZDUSD M30 P3335 DD477 PF2.55 T1085 20200101 20250527.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 AUDCAD M30 P4310 DD346.11 T2683 PF2.48 Pertick 2020.01.01~2025.05.25.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 EURAUD M30 P723 DD477 PF2.51 T974 20210101-20250601.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 USDCAD H1 P1299 DD589 T537 PF3 20200101-20250608.set
+C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 USDCAD H1 P842 DD578 T331 PF2 20200101-20250608.set

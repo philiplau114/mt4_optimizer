@@ -1,0 +1,4064 @@
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\AUDCAD M30 P3385 DD374 T2632 PF2.24 20200101-20250619.set
+EA: 
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3385
+DrawDown: 374
+StartDate: 20200101
+EndDate: 20250619
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.24
+NumTrade: 2632
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Cobra\24-Jul-2025 - 3000U\Cobra Prem_XAUUSD_buy_$3000U_1500pips.set
+EA: Cobra Prem
+Symbol: XAUUSD
+Timeframe: 
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 AUDCHF M30 (10..5) (3) 2000 P7339 DD698 T784 220501-250615.set
+EA: PX3.71
+Symbol: AUDCHF
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 7339
+DrawDown: 698
+StartDate: 220501
+EndDate: 250615
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 AUDNZD M30 (7.4) (3) 2000 P3331 DD447 T629 220501-250620 SL530.set
+EA: PX3.71
+Symbol: AUDNZD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 3331
+DrawDown: 447
+StartDate: 220501
+EndDate: 250620
+Stoploss: 530
+WinRate: 
+ProfitFactor: 
+NumTrade: 629
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 AUDUSD M30 (10.92) (3) 2000 P7652 DD887 T1058 220501-250615 SL900.set
+EA: PX3.71
+Symbol: AUDUSD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 7652
+DrawDown: 887
+StartDate: 220501
+EndDate: 250615
+Stoploss: 900
+WinRate: 
+ProfitFactor: 
+NumTrade: 1058
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 CADCHF M30 (6.9) (3) 2000 P3721 DD506 T564 220501-250620 SL590.set
+EA: PX3.71
+Symbol: CADCHF
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 3721
+DrawDown: 506
+StartDate: 220501
+EndDate: 250620
+Stoploss: 590
+WinRate: 
+ProfitFactor: 
+NumTrade: 564
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 EURGBP M30 (10.63) (3) 2000 P6242 DD545 T344 220501-250620 SL650.set
+EA: PX3.71
+Symbol: EURGBP
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 6242
+DrawDown: 545
+StartDate: 220501
+EndDate: 250620
+Stoploss: 650
+WinRate: 
+ProfitFactor: 
+NumTrade: 344
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 GBPNZD M30 (10.78) (3) 2000 P9209 DD996 T1106 220101-250620 SL1010.set
+EA: PX3.71
+Symbol: GBPNZD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 9209
+DrawDown: 996
+StartDate: 220101
+EndDate: 250620
+Stoploss: 1010
+WinRate: 
+ProfitFactor: 
+NumTrade: 1106
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 GBPUSD M30 (8.59) (3) 2000 P5652 DD615 T578 220501-250615.set
+EA: PX3.71
+Symbol: GBPUSD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 5652
+DrawDown: 615
+StartDate: 220501
+EndDate: 250615
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 578
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 NZDCHF M30 (11.3) (3) 2000 P6298 DD538 T611 220101-250620 SL650.set
+EA: PX3.71
+Symbol: NZDCHF
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 6298
+DrawDown: 538
+StartDate: 220101
+EndDate: 250620
+Stoploss: 650
+WinRate: 
+ProfitFactor: 
+NumTrade: 611
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 NZDUSD M30 (7.48) (3) 2000 P3896 DD518 T416 220501-250620 SL620.set
+EA: PX3.71
+Symbol: NZDUSD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 3896
+DrawDown: 518
+StartDate: 220501
+EndDate: 250620
+Stoploss: 620
+WinRate: 
+ProfitFactor: 
+NumTrade: 416
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\D32 Sharing PX3.71\PX3.71 USDCAD M30 (8.22) (3) 2000 P5407 DD916 T918 220101-250620 SL850.set
+EA: PX3.71
+Symbol: USDCAD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 5407
+DrawDown: 916
+StartDate: 220101
+EndDate: 250620
+Stoploss: 850
+WinRate: 
+ProfitFactor: 
+NumTrade: 918
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC3.41 EURSGD M1 P1792 DD97 T3162 PF18.5 20230101-20250715(10%SL150).set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 1792
+DrawDown: 97
+StartDate: 20230101
+EndDate: 20250715
+Stoploss: 150
+WinRate: 
+ProfitFactor: 18.5
+NumTrade: 3162
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT-PF1.32.set
+EA: FC
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 370
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.54
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT-PF1.35.set
+EA: FC
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 370
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.54
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT-PF1.38.set
+EA: FC
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 370
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.54
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_OPT.set
+EA: FC
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 370
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.54
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\FC_USDCAD_M15_3000_P1525_DD370_PF1.54_T1013_20220101_20241030_SET.set
+EA: FC
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 370
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.54
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Athena\FC3.4 AUDCAD H1 P2322 DD502 PF2.39 202001-202408 T581.set
+EA: FC3.4
+Symbol: AUDCAD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 2322
+DrawDown: 502
+StartDate: 202001
+EndDate: 202408
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.39
+NumTrade: 581
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Athena\FC3.4 EURUSD M30 P3399 DD890 PF2.10 202001-202408 T928.set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3399
+DrawDown: 890
+StartDate: 202001
+EndDate: 202408
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.10
+NumTrade: 928
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Kenny\FC3.4 BTCUSD M30 4083766 DD361800 TP1980 2.69 20210101-20231203  (Xlot).set
+EA: FC3.4
+Symbol: BTCUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1980
+DrawDown: 361800
+StartDate: 20210101
+EndDate: 20231203
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.69
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Kenny\FC3.4 BTCUSD M5 2023 DD208 TP966 1.52 20240101-20240803.set
+EA: FC3.4
+Symbol: BTCUSD
+Timeframe: M5
+InitialDeposit: 2023
+ProfitAmount: 966
+DrawDown: 208
+StartDate: 20240101
+EndDate: 20240803
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.52
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B13 - Kenny\FC3.4 BTCUSD M5 30223 DD10851 TP11266 1.19 20230101-20240803.set
+EA: FC3.4
+Symbol: BTCUSD
+Timeframe: M5
+InitialDeposit: 30223
+ProfitAmount: 11266
+DrawDown: 10851
+StartDate: 20230101
+EndDate: 20240803
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.19
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B15-輝\FC3.4 EURUSD M30 Short Only P1041 DD228 PF1.91 T946 202201-202409\FC3.4 EURUSD M30 Short Only P1041 DD228 PF1.91 T946 202201-202409.set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1041
+DrawDown: 228
+StartDate: 202201
+EndDate: 202409
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.91
+NumTrade: 946
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B15-輝\FN Std 3.4 AUDNZD M30 3000 PF 914 DD 220 T1166 20220103 - 20240909\FN Std 3.4 AUDNZD M30 3000 PF 914 DD 220 T1166 20220103 - 20240909.set
+EA: FN
+Symbol: AUDNZD
+Timeframe: M30
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 
+StartDate: 20220103
+EndDate: 20240909
+Stoploss: 
+WinRate: 
+ProfitFactor: 3.4
+NumTrade: 1166
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B15-輝\FN3.4 Std EURGBP M30 3000 P1777 DD 516 T825 20220103 - 20240908\FN3.4 Std EURGBP M30 3000 P1777 DD 516 T825 20220103 - 20240908.set
+EA: FN3.4
+Symbol: EURGBP
+Timeframe: M30
+InitialDeposit: 3000
+ProfitAmount: 1777
+DrawDown: 
+StartDate: 20220103
+EndDate: 20240908
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 825
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B16 - Rick\FN3.41 EURCAD M15 1000 P168400 D8225 T1135 PF2.61 xlot0.02 2022104-202502.set
+EA: FN3.41
+Symbol: EURCAD
+Timeframe: M15
+InitialDeposit: 1000
+ProfitAmount: 168400
+DrawDown: 8225
+StartDate: 2022104
+EndDate: 202502
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.61
+NumTrade: 1135
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B16 - Rick\FN3.41 EURCAD M15 1000 P2080 DD762 T1386 PF2.31 2020-2024.set
+EA: FN3.41
+Symbol: EURCAD
+Timeframe: M15
+InitialDeposit: 1000
+ProfitAmount: 2080
+DrawDown: 762
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.31
+NumTrade: 1386
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FC3.4 AUDUSD H1 P1248 DD362 PF1.84 T1249 2201-2408.set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 2201
+ProfitAmount: 1248
+DrawDown: 362
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.84
+NumTrade: 1249
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FC3.4 EURUSD M30 P2233 DD1298 PF1.73 T1829 2201-2408.set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: M30
+InitialDeposit: 2201
+ProfitAmount: 2233
+DrawDown: 1298
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.73
+NumTrade: 1829
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FC3.4 NZDCAD M30 P1444 DD904 PF1.94 T1668 2201-2408.set
+EA: FC3.4
+Symbol: NZDCAD
+Timeframe: M30
+InitialDeposit: 2201
+ProfitAmount: 1444
+DrawDown: 904
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.94
+NumTrade: 1668
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\FCSTDV3.4 AUDCAD M5 P509 DD245 PF1.29 T1298 202201-202408.set
+EA: FC
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 509
+DrawDown: 245
+StartDate: 202201
+EndDate: 202408
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.29
+NumTrade: 1298
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\PX STDV3.7 NZDCAD M5 P579 DD110 PF1.58 T943 202201-202408.set
+EA: PX
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 579
+DrawDown: 110
+StartDate: 202201
+EndDate: 202408
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.58
+NumTrade: 943
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B17 - Chi Ho Cheng\Dale SEPT PX3.7 FC3.4\PXSTDV3.7 EURUSD M5 P2085 DD886 PF7.4 T76 202202-202408.set
+EA: PX
+Symbol: EURUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2085
+DrawDown: 886
+StartDate: 202202
+EndDate: 202408
+Stoploss: 
+WinRate: 
+ProfitFactor: 7.4
+NumTrade: 76
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Anthony\FC3.4 US100 3000 M15 TP3536 DD1305 TT1060 PF1.74 2201-2409A5.set
+EA: FC3.4
+Symbol: 
+Timeframe: M15
+InitialDeposit: 3000
+ProfitAmount: 3536
+DrawDown: 1305
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.74
+NumTrade: 1060
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.4 AUDCAD M5 XLot.set
+EA: FN3.4
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.4 XAUUSD M1 P2235 DD1242 T1045 20230101-20241027 (BUY).set
+EA: FN3.4
+Symbol: XAUUSD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 2235
+DrawDown: 1242
+StartDate: 20230101
+EndDate: 20241027
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1045
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDCAD M5 P1363 DD475 PF2.57 T720 2022121-20241125 (SL500).set
+EA: FN3.41
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 1363
+DrawDown: 475
+StartDate: 2022121
+EndDate: 20241125
+Stoploss: 500
+WinRate: 
+ProfitFactor: 2.57
+NumTrade: 720
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDCAD M5 P162909 DD38943 PF2.45 T2190 20220101-20241129 (XLot).set
+EA: FN3.41
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 162909
+DrawDown: 38943
+StartDate: 20220101
+EndDate: 20241129
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.45
+NumTrade: 2190
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDNZD M5 P2106 DD551 PF13.98 T79 20221121-20241122 (SL500).set
+EA: FN3.41
+Symbol: AUDNZD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2106
+DrawDown: 551
+StartDate: 20221121
+EndDate: 20241122
+Stoploss: 500
+WinRate: 
+ProfitFactor: 13.98
+NumTrade: 79
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDNZD M5 P21220 DD414 PF2.47 T212 20221121-20241125 (SL500).set
+EA: FN3.41
+Symbol: AUDNZD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 21220
+DrawDown: 414
+StartDate: 20221121
+EndDate: 20241125
+Stoploss: 500
+WinRate: 
+ProfitFactor: 2.47
+NumTrade: 212
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 AUDUSD M15 P1679 DD312 PF5.42 T241 20221121-20241125 (SL500).set
+EA: FN3.41
+Symbol: AUDUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1679
+DrawDown: 312
+StartDate: 20221121
+EndDate: 20241125
+Stoploss: 500
+WinRate: 
+ProfitFactor: 5.42
+NumTrade: 241
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 EURUSD H1  XLot 20220101-20250110.set
+EA: FN3.41
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 
+StartDate: 20220101
+EndDate: 20250110
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 EURUSD H1 P195765 DD109447 PF3.78 T255 20220101-20250110 (XLot).set
+EA: FN3.41
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 195765
+DrawDown: 109447
+StartDate: 20220101
+EndDate: 20250110
+Stoploss: 
+WinRate: 
+ProfitFactor: 3.78
+NumTrade: 255
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 NZDCAD M15 P1401 DD419 PF2.43 T488 2022121-20241125 (SL500).set
+EA: FN3.41
+Symbol: NZDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1401
+DrawDown: 419
+StartDate: 2022121
+EndDate: 20241125
+Stoploss: 500
+WinRate: 
+ProfitFactor: 2.43
+NumTrade: 488
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 NZDCAD M15 P18572 DD8317 PF4.11 T216 20220101-20250110 (XLot).set
+EA: FN3.41
+Symbol: NZDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 18572
+DrawDown: 8317
+StartDate: 20220101
+EndDate: 20250110
+Stoploss: 
+WinRate: 
+ProfitFactor: 4.11
+NumTrade: 216
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\FN3.41 USDCAD M15 P1190 D380 PF1.99 T675 20221121-20241125 (SL500).set
+EA: FN3.41
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1190
+DrawDown: 380
+StartDate: 20221121
+EndDate: 20241125
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1.99
+NumTrade: 675
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 AUDCAD M5 P2011 DD309 PF2.67 T1049 20220101-20240904 (SL500).set
+EA: FN3.4
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2011
+DrawDown: 309
+StartDate: 20220101
+EndDate: 20240904
+Stoploss: 500
+WinRate: 
+ProfitFactor: 2.67
+NumTrade: 1049
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 AUDUSD M15 P2051 DD312 PF3.91 T566 20220101-20240905 (SL500).set
+EA: FN3.4
+Symbol: AUDUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2051
+DrawDown: 312
+StartDate: 20220101
+EndDate: 20240905
+Stoploss: 500
+WinRate: 
+ProfitFactor: 3.91
+NumTrade: 566
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 EURUSD H1 P702 DD327 PF2.48 T260 20220101-20240910 (SELL)(ID1000).set
+EA: FN3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 702
+DrawDown: 327
+StartDate: 20220101
+EndDate: 20240910
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.48
+NumTrade: 260
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 EURUSD H1 PP2692 DD528 PF2.60 T448 20220101-20240906.set
+EA: FN3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 2692
+DrawDown: 528
+StartDate: 20220101
+EndDate: 20240906
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.60
+NumTrade: 448
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 EURUSD M5 P1531 DD431 PF1.92 T962 20220101-20240830 (SL500).set
+EA: FN3.4
+Symbol: EURUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 1531
+DrawDown: 431
+StartDate: 20220101
+EndDate: 20240830
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1.92
+NumTrade: 962
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 NZDCAD M15 P2039 DD442 PF2.52 T658 20220101-20240904 (SL500).set
+EA: FN3.4
+Symbol: NZDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2039
+DrawDown: 442
+StartDate: 20220101
+EndDate: 20240904
+Stoploss: 500
+WinRate: 
+ProfitFactor: 2.52
+NumTrade: 658
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 NZDUSD H1 P1037 DD493 PF2.39 T394 20220101-20240911 (ID1000).set
+EA: FN3.4
+Symbol: NZDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1037
+DrawDown: 493
+StartDate: 20220101
+EndDate: 20240911
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.39
+NumTrade: 394
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 NZDUSD M30 P1793 DD479 PF1.96 T653 20220101-20240906.set
+EA: FN3.4
+Symbol: NZDUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1793
+DrawDown: 479
+StartDate: 20220101
+EndDate: 20240906
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.96
+NumTrade: 653
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B18 - Jacky\Falcon3.4\FN3.4 USDCAD M30 P2047 DD557 PF1.83 T526 22020101-20240906.set
+EA: FN3.4
+Symbol: USDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 2047
+DrawDown: 557
+StartDate: 22020101
+EndDate: 20240906
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.83
+NumTrade: 526
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\B19 - Clement\FC3.4 USDCAD M15 5000 PF1680 DD352 202201-202408 T966 SET.set
+EA: FC3.4
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 5000
+ProfitAmount: 
+DrawDown: 352
+StartDate: 202201
+EndDate: 202408
+Stoploss: 
+WinRate: 
+ProfitFactor: 1680
+NumTrade: 966
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21 - Nicky\FC3.4 AUDUSD M5 XLOT300 (SL500) TP3178 DD429 TT1317 PF2.99 202201-202408.set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 3178
+DrawDown: 429
+StartDate: 202201
+EndDate: 202408
+Stoploss: 500
+WinRate: 
+ProfitFactor: 2.99
+NumTrade: 1317
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21 - Nicky\FC3.4 EURUSD M30 (SL400) TP1419 DD283 TT930 PF2.16 202008-202408.set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1419
+DrawDown: 283
+StartDate: 202008
+EndDate: 202408
+Stoploss: 400
+WinRate: 
+ProfitFactor: 2.16
+NumTrade: 930
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21 - Nicky\FC3.4 NZDUSD M15 (SL400) P1934 DD266 TT733 PF2.68 20200101-202408.set
+EA: FC3.4
+Symbol: NZDUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1934
+DrawDown: 266
+StartDate: 20200101
+EndDate: 202408
+Stoploss: 400
+WinRate: 
+ProfitFactor: 2.68
+NumTrade: 733
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21- Lawrence\FC3.4 AUDCAD M30 500 PF2.98 TP1336 DD379 20220101-20240826 T700 SL400.set
+EA: FC3.4
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 500
+ProfitAmount: 1336
+DrawDown: 379
+StartDate: 20220101
+EndDate: 20240826
+Stoploss: 400
+WinRate: 
+ProfitFactor: 2.98
+NumTrade: 700
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C21- Lawrence\FX3.7 AUDCAD M30 5000 PF1.69 TP477 DD143 20220101-20240807 T518 SL60.set
+EA: FX3.7
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 5000
+ProfitAmount: 477
+DrawDown: 143
+StartDate: 20220101
+EndDate: 20240807
+Stoploss: 60
+WinRate: 
+ProfitFactor: 1.69
+NumTrade: 518
+SetVersion: 3.7
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Benson\FC3.4 USDCAD PerTick StyleC H1 2000 P5841 PF1.99 DD951 T687 20220101-20240906 (SL 50 pct).set
+EA: FC3.4
+Symbol: USDCAD
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 5841
+DrawDown: 951
+StartDate: 20220101
+EndDate: 20240906
+Stoploss: 50
+WinRate: 
+ProfitFactor: 1.99
+NumTrade: 687
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Johnny\FC3.4 EURCHF H1 2000 NP5182 DD982 PF3.42 TT1128 20220103-20240906 (8% @Mth)(Verified).set
+EA: FC3.4
+Symbol: EURCHF
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 5182
+DrawDown: 982
+StartDate: 20220103
+EndDate: 20240906
+Stoploss: 
+WinRate: 
+ProfitFactor: 3.42
+NumTrade: 1128
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Johnny\FC3.4 EURCHF H1 2000 NP5182 DD982 PF3.42 TT1128 20220103-20240906 (8% @Mth).42 TT1128 20220103-20240906 (8% @Mth).set
+EA: FC3.4
+Symbol: EURCHF
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 5182
+DrawDown: 982
+StartDate: 20220103
+EndDate: 20240906
+Stoploss: 
+WinRate: 
+ProfitFactor: 3.42
+NumTrade: 1128
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Johnny\FC3.4 EURSGD M1 2500 PF1.8 P7893 DD1104 T1734 2022-20240909 (SL4 order).set
+EA: FC3.4
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 2500
+ProfitAmount: 7893
+DrawDown: 1104
+StartDate: 20240909
+EndDate: 
+Stoploss: 4
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 1734
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C22 - Sa\FC3.4 EURSGD M1 2500 PF1.8 P7893 DD1104 T1734 2022-20240909 (SL4 order).set
+EA: FC3.4
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 2500
+ProfitAmount: 7893
+DrawDown: 1104
+StartDate: 20240909
+EndDate: 
+Stoploss: 4
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 1734
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Caroline\Xlot BTCUSD 4500 P9304 D7027 T2114 20220101-20241130.set
+EA: 
+Symbol: BTCUSD
+Timeframe: 
+InitialDeposit: 4500
+ProfitAmount: 9304
+DrawDown: 7027
+StartDate: 20220101
+EndDate: 20241130
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2114
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Caroline\FC EURSGD\FC3.4 EURSGD M1 1397 P220 DD409  PF1.65 T1805 202201-202401105(SL300).set
+EA: FC3.4
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 1397
+ProfitAmount: 220
+DrawDown: 409
+StartDate: 202201
+EndDate: 20240110
+Stoploss: 300
+WinRate: 
+ProfitFactor: 1.65
+NumTrade: 1805
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FC3.4 NZDUSD 2000 M5 P27975 DD4502 T956 PF2.61 20200101-202408 (type C,notLS,Xlot).set
+EA: FC3.4
+Symbol: NZDUSD
+Timeframe: M5
+InitialDeposit: 2000
+ProfitAmount: 27975
+DrawDown: 4502
+StartDate: 20200101
+EndDate: 202408
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.61
+NumTrade: 956
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FN3.4 AUDCAD  M5 1000 P145082 DD86661 PF2.07 T2678 20220101-20241207 (EDIT LOT, XDIS)new.set
+EA: FN3.4
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 1000
+ProfitAmount: 145082
+DrawDown: 86661
+StartDate: 20220101
+EndDate: 20241207
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.07
+NumTrade: 2678
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FN3.4 AUDCAD  M5 300 P44106 DD26275 PF2.07 T2675 20220101-20241207 (EDIT LOT, XDIS)new.set
+EA: FN3.4
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 300
+ProfitAmount: 44106
+DrawDown: 26275
+StartDate: 20220101
+EndDate: 20241207
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.07
+NumTrade: 2675
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Henry Zero Mok\FN3.4 AUDCAD  M5 500 P15048 DD4839 PF2.81 T1050 20220101-20241207 ( XLOT  Xdis)new.set
+EA: FN3.4
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 500
+ProfitAmount: 15048
+DrawDown: 4839
+StartDate: 20220101
+EndDate: 20241207
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.81
+NumTrade: 1050
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Lenna\FC_HK50_M1_3000_P1447_DD2720_T1866_20220101_20240930_SET.set
+EA: FC
+Symbol: 
+Timeframe: M1
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 2720
+StartDate: 20220101
+EndDate: 20240930
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - Lenna\FC_HK50_M1_3000_P859_DD2818_T875_20220101_20240930_SET.set
+EA: FC
+Symbol: 
+Timeframe: M1
+InitialDeposit: 3000
+ProfitAmount: 
+DrawDown: 2818
+StartDate: 20220101
+EndDate: 20240930
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - SN\FC 3.4 AUDUSD H1 P1000 DD345 20220101-20241103 T1156.set
+EA: FC
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1000
+DrawDown: 345
+StartDate: 20220101
+EndDate: 20241103
+Stoploss: 
+WinRate: 
+ProfitFactor: 3.4
+NumTrade: 1156
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - SN\FC 3.4 AUDUSD H1 P1158 DD529 20220101-20241103 T293.set
+EA: FC
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1158
+DrawDown: 529
+StartDate: 20220101
+EndDate: 20241103
+Stoploss: 
+WinRate: 
+ProfitFactor: 3.4
+NumTrade: 293
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C23 - SN\FC 3.4 EURUSD H1 P1048 DD313 20220101-20241103 T971.set
+EA: FC
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1048
+DrawDown: 313
+StartDate: 20220101
+EndDate: 20241103
+Stoploss: 
+WinRate: 
+ProfitFactor: 3.4
+NumTrade: 971
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDCAD 2000 M5 P1869 DD349 TP4.71 T508 20220101-20241019 (SL400).set
+EA: FC3.4
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 2000
+ProfitAmount: 1869
+DrawDown: 349
+StartDate: 20220101
+EndDate: 20241019
+Stoploss: 400
+WinRate: 
+ProfitFactor: 4.71
+NumTrade: 508
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDCAD 500 M30 P583554 DD378890 TP2.57 T541 20220101-20241030 (Xlot).set
+EA: FC3.4
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 500
+ProfitAmount: 583554
+DrawDown: 378890
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.57
+NumTrade: 541
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDCHF 2000 M30 P775 DD355 TP3.05 T358 20220101-20241030 (SL500).set
+EA: FC3.4
+Symbol: AUDCHF
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 775
+DrawDown: 355
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 500
+WinRate: 
+ProfitFactor: 3.05
+NumTrade: 358
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 AUDNZD 2000 M30 P579 DD196 TP3.5 T526 20220101-20241030 (SL500).set
+EA: FC3.4
+Symbol: AUDNZD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 579
+DrawDown: 196
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 500
+WinRate: 
+ProfitFactor: 3.5
+NumTrade: 526
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 EURUSD 2000 H1 P2138 DD625 TP2.68 T561 20220101-20241019 (SL400).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 2138
+DrawDown: 625
+StartDate: 20220101
+EndDate: 20241019
+Stoploss: 400
+WinRate: 
+ProfitFactor: 2.68
+NumTrade: 561
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dicky\C25 Dicky Chung - FC 3.4 (HomeWork) 2024-11-3\FC3.4 GBPUSD 2000 M5 P1853 DD683 TP1.4 T1559 20220101-20241019 (SL400).set
+EA: FC3.4
+Symbol: GBPUSD
+Timeframe: M5
+InitialDeposit: 2000
+ProfitAmount: 1853
+DrawDown: 683
+StartDate: 20220101
+EndDate: 20241019
+Stoploss: 400
+WinRate: 
+ProfitFactor: 1.4
+NumTrade: 1559
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dr\Falcon v3.4 AUDNZD 1000 M15 PF2337 DD290 20220101-20241101 T3049 Long & Short 0.5 SL.set
+EA: Falcon
+Symbol: AUDNZD
+Timeframe: M15
+InitialDeposit: 1000
+ProfitAmount: 
+DrawDown: 290
+StartDate: 20220101
+EndDate: 20241101
+Stoploss: 
+WinRate: 
+ProfitFactor: 2337
+NumTrade: 3049
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C25 - Dr\FC3.4 EURUSD 2000 H1 P2138 DD625 TP2.68 T561 20220101-20241019 (SL400).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 2138
+DrawDown: 625
+StartDate: 20220101
+EndDate: 20241019
+Stoploss: 400
+WinRate: 
+ProfitFactor: 2.68
+NumTrade: 561
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 AUDUSD H1 500 PF942 DD436 20221105-20241105 T865 (SL0).set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 436
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 0
+WinRate: 
+ProfitFactor: 942
+NumTrade: 865
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURSGD M1 500 PF5312 DD849 20221105-20241105 T1104 (SL0).set
+EA: FC3.4
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 849
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 0
+WinRate: 
+ProfitFactor: 5312
+NumTrade: 1104
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL1000).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 503
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 1067
+NumTrade: 350
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL500).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 503
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1067
+NumTrade: 350
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 EURUSD H1 500 PF1822 DD739 T309 20221102-20241102.set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 739
+StartDate: 20221102
+EndDate: 20241102
+Stoploss: 
+WinRate: 
+ProfitFactor: 1822
+NumTrade: 309
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 NZDCAD H1 500 PF440 DD225 20221105-20241105 T302 (SL1000).set
+EA: FC3.4
+Symbol: NZDCAD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 225
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 440
+NumTrade: 302
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\20241107_Eric_Falcon3.4\FC3.4 NZDUSD M15 500 PF902 DD315 20221105-20241105 T382 (SL400).set
+EA: FC3.4
+Symbol: NZDUSD
+Timeframe: M15
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 315
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 400
+WinRate: 
+ProfitFactor: 902
+NumTrade: 382
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 AUDUSD H1 500 PF942 DD436 20221105-20241105 T865 (SL0).set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 436
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 0
+WinRate: 
+ProfitFactor: 942
+NumTrade: 865
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURSGD M1 500 PF5312 DD849 20221105-20241105 T1104 (SL0).set
+EA: FC3.4
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 849
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 0
+WinRate: 
+ProfitFactor: 5312
+NumTrade: 1104
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL1000).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 503
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 1067
+NumTrade: 350
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURUSD H1 500 PF1067 DD503 20221105-20241105 T350 (SL500).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 503
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1067
+NumTrade: 350
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 EURUSD H1 500 PF1822 DD739 T309 20221102-20241102.set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 739
+StartDate: 20221102
+EndDate: 20241102
+Stoploss: 
+WinRate: 
+ProfitFactor: 1822
+NumTrade: 309
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 NZDCAD H1 500 PF440 DD225 20221105-20241105 T302 (SL1000).set
+EA: FC3.4
+Symbol: NZDCAD
+Timeframe: H1
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 225
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 440
+NumTrade: 302
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Greenang\__MACOSX\20241107_Eric_Falcon3.4\._FC3.4 NZDUSD M15 500 PF902 DD315 20221105-20241105 T382 (SL400).set
+EA: FC3.4
+Symbol: NZDUSD
+Timeframe: M15
+InitialDeposit: 500
+ProfitAmount: 
+DrawDown: 315
+StartDate: 20221105
+EndDate: 20241105
+Stoploss: 400
+WinRate: 
+ProfitFactor: 902
+NumTrade: 382
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\FC3.4 AUDUSD H1 P6230 D2292 22021226-20241226 T503 SL3500.set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 6230
+DrawDown: 2292
+StartDate: 22021226
+EndDate: 20241226
+Stoploss: 3500
+WinRate: 
+ProfitFactor: 
+NumTrade: 503
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\FC3.4 AUDUSD M5 500 P62910 XLOT T568 20221110-20241110.set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: M5
+InitialDeposit: 500
+ProfitAmount: 62910
+DrawDown: 
+StartDate: 20221110
+EndDate: 20241110
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 568
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\PX3.7 EURUSD M30 P8444 D2251 20221226-20241226 T150 SL3000.set
+EA: PX3.7
+Symbol: EURUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 8444
+DrawDown: 2251
+StartDate: 20221226
+EndDate: 20241226
+Stoploss: 3000
+WinRate: 
+ProfitFactor: 
+NumTrade: 150
+SetVersion: 3.7
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\PX3.7 NZDUSD M30 P5956 D2326 20221226-20241226 T76 SL3000.set
+EA: PX3.7
+Symbol: NZDUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 5956
+DrawDown: 2326
+StartDate: 20221226
+EndDate: 20241226
+Stoploss: 3000
+WinRate: 
+ProfitFactor: 
+NumTrade: 76
+SetVersion: 3.7
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Jason\PX3.71 USDCAD M30 P7209 D2078 20221226-20241226 T199 SL3000.set
+EA: PX3.71
+Symbol: USDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 7209
+DrawDown: 2078
+StartDate: 20221226
+EndDate: 20241226
+Stoploss: 3000
+WinRate: 
+ProfitFactor: 
+NumTrade: 199
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_AUDCAD_H1_2000_P1981_D878_PF3.19_T710_20220101-20241029_(SL500)lot0.02.set
+EA: FC3.4
+Symbol: AUDCAD
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 
+DrawDown: 
+StartDate: 20220101
+EndDate: 20241029
+Stoploss: 500
+WinRate: 
+ProfitFactor: 3.19
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_AUDUSD_M15_2000_P2568_D442_PF3.82_T513_20220101-20241029_(SL500)lot0.02.set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: M15
+InitialDeposit: 2000
+ProfitAmount: 
+DrawDown: 
+StartDate: 20220101
+EndDate: 20241029
+Stoploss: 500
+WinRate: 
+ProfitFactor: 3.82
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_EURCHF_H1_2000_P6143_D2820_PF2.55_T1320_20220101-20241029_(SLNil)lot0.02.set
+EA: FC3.4
+Symbol: EURCHF
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 
+DrawDown: 
+StartDate: 20220101
+EndDate: 20241029
+Stoploss: Nil
+WinRate: 
+ProfitFactor: 2.55
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_EURUSD_H1_2000_P1432_DD434_PF2.31_T372_20220101-20241029_(SL500).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 
+DrawDown: 434
+StartDate: 20220101
+EndDate: 20241029
+Stoploss: 500
+WinRate: 
+ProfitFactor: 2.31
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C26 - Sam\Real account\FC3.4_NZDCAD_H1_2000_P771_D249_PF3.36_T536_20220101-20241030_(SL500).set
+EA: FC3.4
+Symbol: NZDCAD
+Timeframe: H1
+InitialDeposit: 2000
+ProfitAmount: 
+DrawDown: 
+StartDate: 20220101
+EndDate: 20241030
+Stoploss: 500
+WinRate: 
+ProfitFactor: 3.36
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - John\C29 - John (FC3.41) BT\FC3.4 USDCHF M30 P918 DD389 T826 20200101-20241231 (SL 500)\FC3.4 USDCHF M30 P918 DD389 T826 20200101-20241231 (SL 500).set
+EA: FC3.4
+Symbol: USDCHF
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 918
+DrawDown: 389
+StartDate: 20200101
+EndDate: 20241231
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 826
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - John\C29 - John (FC3.41) BT\FC3.4 XAUUSD M15 P3084 DD2524 T613 20200101-20241231\FC3.4 XAUUSD M15 P3084 DD2524 T613 20200101-20241231.set
+EA: FC3.4
+Symbol: XAUUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 3084
+DrawDown: 2524
+StartDate: 20200101
+EndDate: 20241231
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 613
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - Maurice Li\Falcon Homework by Maurice\C29 Maurice FC3.41 AUDUSD ID500 M30 PP3980 DD964 PF1.77 T1875 20220101-20241228 (SL2000).set
+EA: FC3.41
+Symbol: AUDUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3980
+DrawDown: 964
+StartDate: 20220101
+EndDate: 20241228
+Stoploss: 2000
+WinRate: 
+ProfitFactor: 1.77
+NumTrade: 1875
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - Maurice Li\Falcon Homework by Maurice\C29 Maurice FC3.41 EURSGD ID500 M1 PP1824 DD490 PF1.24 T3976 20220101-20241228 (SL500).set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 1824
+DrawDown: 490
+StartDate: 20220101
+EndDate: 20241228
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1.24
+NumTrade: 3976
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C29 - Maurice Li\Falcon Homework by Maurice\C29 Maurice FC3.41 NZDUSD ID500 M1 PP1985 DD682 PF1.88 T957 20220101-20241229 (SL1000).set
+EA: FC3.41
+Symbol: NZDUSD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 1985
+DrawDown: 682
+StartDate: 20220101
+EndDate: 20241229
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 1.88
+NumTrade: 957
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Falcon  XAUUSD M15 P13237 DD2192 PF1.26 T794  20200101-20250101.set
+EA: Falcon
+Symbol: XAUUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 13237
+DrawDown: 2192
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.26
+NumTrade: 794
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Falcon  XAUUSD M5 P10560 DD2943 PF1.2 T560  20200101-20250101.set
+EA: Falcon
+Symbol: XAUUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 10560
+DrawDown: 2943
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.2
+NumTrade: 560
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Falcon +Lotto .set
+EA: Falcon
+Symbol: 
+Timeframe: 
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - Gary\Palcon  XAUUSD M15 P7742 DD2319 PF1.08 T1444 20200101-20250101.set
+EA: 
+Symbol: XAUUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 7742
+DrawDown: 2319
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.08
+NumTrade: 1444
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - 鑑仔\FN3.41 AUDCAD M15  P2847 DD695 PE1.64 T848  20200101-202503(SL500).set
+EA: FN3.41
+Symbol: AUDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2847
+DrawDown: 695
+StartDate: 20200101
+EndDate: 202503
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1.64
+NumTrade: 848
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\C30 - 鑑仔\FN3.41 NZDCAD M15 P2988 DD562 P2.38 T600 20200101-202503(SL500).set
+EA: FN3.41
+Symbol: NZDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2988
+DrawDown: 562
+StartDate: 20200101
+EndDate: 202503
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 600
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Checked\FC3.4 AUDCAD M30 5000 PF1.69 TP478 DD137 20220101-20240807 T525 SL60 (C21 Lawrence).set
+EA: FC3.4
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 5000
+ProfitAmount: 478
+DrawDown: 137
+StartDate: 20220101
+EndDate: 20240807
+Stoploss: 60
+WinRate: 
+ProfitFactor: 1.69
+NumTrade: 525
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D32 Helen\FN EURSGD 1000 M1 P4657 DD552 PF1.34 T7649 custom reversal 20220101-20250409 (SL500) Tmgm (updated).set
+EA: FN
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 1000
+ProfitAmount: 4657
+DrawDown: 552
+StartDate: 20220101
+EndDate: 20250409
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1.34
+NumTrade: 7649
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D33 - Dennis\Dennis FN3.41 AUDUSD H4 P3389 DD435 PF4.4 T542 20210101-20250321 (SL500)\Dennis FN3.41 AUDUSD H4 P3389 DD435 PF4.4 T542 20210101-20250321 (SL500).set
+EA: FN3.41
+Symbol: AUDUSD
+Timeframe: H4
+InitialDeposit: 
+ProfitAmount: 3389
+DrawDown: 435
+StartDate: 20210101
+EndDate: 20250321
+Stoploss: 500
+WinRate: 
+ProfitFactor: 4.4
+NumTrade: 542
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D33 - Dennis\Dennis FN3.41 AUDUSD H4 P792152 DD225093 PF6.05 T543 20210101-20250321 (xLot DP500)\Dennis FN3.41 AUDUSD H4 P792152 DD225093 PF6.05 T543 20210101-20250321 (xLot DP500).set
+EA: FN3.41
+Symbol: AUDUSD
+Timeframe: H4
+InitialDeposit: 
+ProfitAmount: 792152
+DrawDown: 225093
+StartDate: 20210101
+EndDate: 20250321
+Stoploss: 
+WinRate: 
+ProfitFactor: 6.05
+NumTrade: 543
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D36 - 6204\FN3.5 GBPUSD M15 D694 P1823 T684 XLOT0.02 20230101-20250302.set
+EA: FN3.5
+Symbol: GBPUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1823
+DrawDown: 694
+StartDate: 20230101
+EndDate: 20250302
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 684
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D40 - Bowie\D40 Bowie FN3.41\FN3.41 AUDUSD H1 P1578 DD588 T460 20230522 20250521 (SL600).set
+EA: FN3.41
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1578
+DrawDown: 588
+StartDate: 20230522
+EndDate: 20250521
+Stoploss: 600
+WinRate: 
+ProfitFactor: 
+NumTrade: 460
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D40 - Bowie\D40 Bowie FN3.41\FN3.41 GBPUSD M15 P1223 DD556 PF1.53 T842 20230522-20250519 (SL500).set
+EA: FN3.41
+Symbol: GBPUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1223
+DrawDown: 556
+StartDate: 20230522
+EndDate: 20250519
+Stoploss: 500
+WinRate: 
+ProfitFactor: 1.53
+NumTrade: 842
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\D40 - Bowie\D40 Bowie FN3.41\FN3.41 NZDCAD M15 P1420 DD434 T453 20230522 20250521 (SL500).set
+EA: FN3.41
+Symbol: NZDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1420
+DrawDown: 434
+StartDate: 20230522
+EndDate: 20250521
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 453
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 EURUSD H1 P1811 DD549 T511 PF3.58 20220101-20240803 (SL1000).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1811
+DrawDown: 549
+StartDate: 20220101
+EndDate: 20240803
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 3.58
+NumTrade: 511
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 EURUSD M15 P10238 DD3426 PF2.03 T1423 20220101-20240911 (SL 11 level).set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 10238
+DrawDown: 3426
+StartDate: 20220101
+EndDate: 20240911
+Stoploss: 11
+WinRate: 
+ProfitFactor: 2.03
+NumTrade: 1423
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 EURUSD M15 P2540 DD775 PF2.15 T1164 20220101-20241003.set
+EA: FC3.4
+Symbol: EURUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2540
+DrawDown: 775
+StartDate: 20220101
+EndDate: 20241003
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.15
+NumTrade: 1164
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 GBPUSD M30 P2663 DD1022 PF1.77 T841 20220101-20240926.set
+EA: FC3.4
+Symbol: GBPUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 2663
+DrawDown: 1022
+StartDate: 20220101
+EndDate: 20240926
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.77
+NumTrade: 841
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Nick\FC3.4 XAUUSD M1 P2955 DD1000 T152 20240101-20241024.set
+EA: FC3.4
+Symbol: XAUUSD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 2955
+DrawDown: 1000
+StartDate: 20240101
+EndDate: 20241024
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 152
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Non Farm Set\FC3.4 M1 XAUUSD Breakout30M 1lot TP (50pips,tral10) SL (200dollar).set
+EA: FC3.4
+Symbol: XAUUSD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCAD H1 D204 P1375 T261 Custom(0.02,0.02,0.04,0.08,0.12,0.16,0.2) 202201-202406.set
+EA: FN3.5
+Symbol: AUDCAD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1375
+DrawDown: 204
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 261
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406.set
+EA: FN3.5
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 3932
+DrawDown: 523
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2082
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCHF M5 D206 P1306 T1060 Custom(0.01,0.01,0.01,0.02,0.02,0.02,0.03,0.03,0.06) 202201-202406.set
+EA: FN3.5
+Symbol: AUDCHF
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 1306
+DrawDown: 206
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1060
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDCHF M5 P2565 DD378 T850 202201-202406.set
+EA: FN3.5
+Symbol: AUDCHF
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2565
+DrawDown: 378
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 850
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDJPY M15 D297 P1178 T1239 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.08)(Long only) 202201-202406.set
+EA: FN3.5
+Symbol: AUDJPY
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1178
+DrawDown: 297
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1239
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDNZD M15 D251 P732 T1257 Custom(0.01,0.01,0.02,0.03,0.05,0.08,0.08,0.16,0.2) 202201-202406.set
+EA: FN3.5
+Symbol: AUDNZD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 732
+DrawDown: 251
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1257
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDUSD H1 D245 P1648 T756 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.06,0.12,0.18,0.36,0.5) 202201-202406.set
+EA: FN3.5
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1648
+DrawDown: 245
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 756
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDUSD M30 D994 P3471 T384 Custom(0.02,0.03,0.04,0.08,0.12,0.15,0.19) 202201-202406.set
+EA: FN3.5
+Symbol: AUDUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3471
+DrawDown: 994
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 384
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 AUDUSD M5 D491 P2057 T1631 Custom(0.01,0.01,0.02,0.02,0.03,0.05,0.07,0.09,0.09) 202201-202406.set
+EA: FN3.5
+Symbol: AUDUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2057
+DrawDown: 491
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1631
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CADCHF M15 D394 P955 T753 202201-202406.set
+EA: FN3.5
+Symbol: CADCHF
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 955
+DrawDown: 394
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 753
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CADCHF M15 D473 P1458 T859 Custom(0.01,0.02,0.03,0.06,0.1,0.14,0.18,0.2,0.3) 202201-202406.set
+EA: FN3.5
+Symbol: CADCHF
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1458
+DrawDown: 473
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 859
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406.set
+EA: FN3.5
+Symbol: CHFJPY
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 764
+DrawDown: 150
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1386
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 CHFJPY M15 D96 P673 T1224 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406.set
+EA: FN3.5
+Symbol: CHFJPY
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 673
+DrawDown: 96
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1224
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURCAD H1 D477 P1564 T854 Dynamic(0.05x1.5) 202201-202406.set
+EA: FN3.5
+Symbol: EURCAD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1564
+DrawDown: 477
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 854
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURSGD M15 D297 P1594 T2033 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.06,0.08) 202201-202406.set
+EA: FN3.5
+Symbol: EURSGD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1594
+DrawDown: 297
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2033
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURSGD M15 D620 P2650 T1856 Custom(0.02,0.02,0.03,0.03,0.04,0.06,0.08,0.1,0.13,0.16) 202201-202406.set
+EA: FN3.5
+Symbol: EURSGD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2650
+DrawDown: 620
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1856
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURUSD H1 D864 P2264 T461 Custom(0.01,0.01,0.02,0.04,0.08,0.1,0.13,0.17) 202201-202406.set
+EA: FN3.5
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 2264
+DrawDown: 864
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 461
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURUSD M15 D684 P2669 T1311 Custom(0.01,0.01,0.02,0.02,0.03,0.04,0.08,0.12,0.16,0.2) 202201-202406.set
+EA: FN3.5
+Symbol: EURUSD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2669
+DrawDown: 684
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1311
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 EURUSD M5 D445 P1951 T1704 Custom(0.01,0.01,0.02,0.02,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: EURUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 1951
+DrawDown: 445
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1704
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCAD M15 D490 P1785 T1361 Custom(0.02,0.02,0.03,0.03,0.04,0.06,0.09) 202201-202406.set
+EA: FN3.5
+Symbol: GBPCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1785
+DrawDown: 490
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1361
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCAD M15 D525 P2270 T2019 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.06,0.09) 202201-202406.set
+EA: FN3.5
+Symbol: GBPCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2270
+DrawDown: 525
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2019
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCHF M15 D447 P1819 T789 Custom(0.02,0.02,0.03,0.03,0.04,0.06,0.09) 202201-202406.set
+EA: FN3.5
+Symbol: GBPCHF
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1819
+DrawDown: 447
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 789
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPCHF M30 D610 P1784 T1542 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: GBPCHF
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1784
+DrawDown: 610
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1542
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1809
+DrawDown: 341
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1850
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPNZD M30 D125 P894 T857 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 894
+DrawDown: 125
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 857
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 GBPNZD M30 D178 P1327 T1297 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1327
+DrawDown: 178
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1297
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M30 D603 P2597 T457 Dynamic(0.1x1.272) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 2597
+DrawDown: 603
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 457
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D107 P1038 T1446 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 1038
+DrawDown: 107
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1446
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D128 P1307 T1859 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 1307
+DrawDown: 128
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1859
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2074
+DrawDown: 313
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2685
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCAD M5 D87 P826 T1175 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 826
+DrawDown: 87
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1175
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D2699 P24255 T659 Static(0.5) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCHF
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 24255
+DrawDown: 2699
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 659
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D458 P1630 T248 Custom(0.1,0.15,0.23,0.35) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCHF
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1630
+DrawDown: 458
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 248
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D461 P1641 T248 Custom(0.1,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCHF
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1641
+DrawDown: 461
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 248
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF H1 D539 P4850 T659 Static(0.1) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCHF
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 4850
+DrawDown: 539
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 659
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF M15 D120 P879 T973 Custom(0.02,0.02,0.02) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCHF
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 879
+DrawDown: 120
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 973
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF M15 D284 P1461 T506 Dynamic(0.05x1.5) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCHF
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1461
+DrawDown: 284
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 506
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDCHF M5 D355 P1871 T305 Custom(0.02,0.04) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCHF
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 1871
+DrawDown: 355
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 305
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDSGD M30 D292 P1185 T90 Dynamic(0.1x2) 202201-202406.set
+EA: FN3.5
+Symbol: NZDSGD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1185
+DrawDown: 292
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 90
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 NZDUSD H1 D177 P1234 T573 Custom(0.01,0.01,0.02,0.03,0.06,0.09,0.12) 202201-202406.set
+EA: FN3.5
+Symbol: NZDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1234
+DrawDown: 177
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 573
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCAD M15 D197 P1180 T911 Custom(0.01,0.01,0.02,0.04,0.08,0.16,0.32,0.64) 202201-202406.set
+EA: FN3.5
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1180
+DrawDown: 197
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 911
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCAD M15 D395 P2324 T907 Custom(0.02,0.02,0.04,0.08,0.16,0.32,0.64) 202201-202406.set
+EA: FN3.5
+Symbol: USDCAD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 2324
+DrawDown: 395
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 907
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCHF H4 D126 P308 T74 Custom(0.03,0.05,0.05,0.07,0.07,0.1,0.1) 202201-202406.set
+EA: FN3.5
+Symbol: USDCHF
+Timeframe: H4
+InitialDeposit: 
+ProfitAmount: 308
+DrawDown: 126
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 74
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDCHF M15 D318 660 T382 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.08) 202201-202406.set
+EA: FN3.5
+Symbol: USDCHF
+Timeframe: M15
+InitialDeposit: 660
+ProfitAmount: 
+DrawDown: 318
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 382
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Terry - Xlot\B班優化\FN3.5 USDJPY M15 D268 P931 T792 Custom(0.01,0.01,0.02,0.02,0.03,0.03,0.04,0.08) 202201-202406.set
+EA: FN3.5
+Symbol: USDJPY
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 931
+DrawDown: 268
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 792
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Test\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500).set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\Xlot\FC3.4 AUDUSD M5 500 P62910 XLOT T568 20221110-20241110.set
+EA: FC3.4
+Symbol: AUDUSD
+Timeframe: M5
+InitialDeposit: 500
+ProfitAmount: 62910
+DrawDown: 
+StartDate: 20221110
+EndDate: 20241110
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 568
+SetVersion: 3.4
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC 3.4 AUDUSD H1 PF1365 DD441 20220101-20240831 T1284.set
+EA: FC
+Symbol: AUDUSD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 441
+StartDate: 20220101
+EndDate: 20240831
+Stoploss: 
+WinRate: 
+ProfitFactor: 1365
+NumTrade: 1284
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC 3.4 NZDCHF M15 PF929 DD180 20220101-20240825 T1010 (SL 200).set
+EA: FC
+Symbol: NZDCHF
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 180
+StartDate: 20220101
+EndDate: 20240825
+Stoploss: 200
+WinRate: 
+ProfitFactor: 929
+NumTrade: 1010
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 -CHLOE-AUDCAD -C-M5-202105-2403-P3174 DD341 T2245 R9.set
+EA: FC3.3
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 2403
+ProfitAmount: 3174
+DrawDown: 341
+StartDate: 202105
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2245
+SetVersion: 3.3
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 AUDCAD M5 500 D105092 P523564 T2142 (15,15,30,30,45,45,60,60,75,75,90) (Dynamic 0.05x1.272) Trialing11-5.set
+EA: FC3.3
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 500
+ProfitAmount: 523564
+DrawDown: 105092
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2142
+SetVersion: 3.3
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 GBPCAD M30 D538 D1883 T1202 (0.02,0.02,0.03,0.03,0.04,0.06,0.08,0.12)(ATR M30) 202201-202403.set
+EA: FC3.3
+Symbol: GBPCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 538
+StartDate: 202201
+EndDate: 202403
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1202
+SetVersion: 3.3
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 GBPCAD M5 PF4049 DD1394 202201-202404 T3483.set
+EA: FC3.3
+Symbol: GBPCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 
+DrawDown: 1394
+StartDate: 202201
+EndDate: 202404
+Stoploss: 
+WinRate: 
+ProfitFactor: 4049
+NumTrade: 3483
+SetVersion: 3.3
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Falcon 3.41\Falcon 3.41\小吉\FC3.3 NZDCAD H1 D213 P1882 T397 A Mode_0.1SL 202201-202402.set
+EA: FC3.3
+Symbol: NZDCAD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1882
+DrawDown: 213
+StartDate: 202201
+EndDate: 202402
+Stoploss: 202201
+WinRate: 
+ProfitFactor: 
+NumTrade: 397
+SetVersion: 3.3
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+EA: PX3.71
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 1000
+ProfitAmount: 2666
+DrawDown: 453
+StartDate: 20000101
+EndDate: 20250627
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT-926.set
+EA: FN3.5
+Symbol: CHFJPY
+Timeframe: M15
+InitialDeposit: 926
+ProfitAmount: 764
+DrawDown: 150
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1386
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT-1.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2074
+DrawDown: 313
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2685
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT-253.set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 253
+ProfitAmount: 4493
+DrawDown: 485
+StartDate: 20200101
+EndDate: 20250710
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 2820
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 AUDCHF M30 (10..5) (3) 2000 P7339 DD698 T784 220501-250615.set
+EA: PX3.71
+Symbol: AUDCHF
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 7339
+DrawDown: 698
+StartDate: 220501
+EndDate: 250615
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 AUDNZD M30 (7.4) (3) 2000 P3331 DD447 T629 220501-250620 SL530.set
+EA: PX3.71
+Symbol: AUDNZD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 3331
+DrawDown: 447
+StartDate: 220501
+EndDate: 250620
+Stoploss: 530
+WinRate: 
+ProfitFactor: 
+NumTrade: 629
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 AUDUSD M30 (10.92) (3) 2000 P7652 DD887 T1058 220501-250615 SL900.set
+EA: PX3.71
+Symbol: AUDUSD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 7652
+DrawDown: 887
+StartDate: 220501
+EndDate: 250615
+Stoploss: 900
+WinRate: 
+ProfitFactor: 
+NumTrade: 1058
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 CADCHF M30 (6.9) (3) 2000 P3721 DD506 T564 220501-250620 SL590.set
+EA: PX3.71
+Symbol: CADCHF
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 3721
+DrawDown: 506
+StartDate: 220501
+EndDate: 250620
+Stoploss: 590
+WinRate: 
+ProfitFactor: 
+NumTrade: 564
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 EURGBP M30 (10.63) (3) 2000 P6242 DD545 T344 220501-250620 SL650.set
+EA: PX3.71
+Symbol: EURGBP
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 6242
+DrawDown: 545
+StartDate: 220501
+EndDate: 250620
+Stoploss: 650
+WinRate: 
+ProfitFactor: 
+NumTrade: 344
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 GBPNZD M30 (10.78) (3) 2000 P9209 DD996 T1106 220101-250620 SL1010.set
+EA: PX3.71
+Symbol: GBPNZD
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 9209
+DrawDown: 996
+StartDate: 220101
+EndDate: 250620
+Stoploss: 1010
+WinRate: 
+ProfitFactor: 
+NumTrade: 1106
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Live Trading\D32 PX\PX3.71 NZDCHF M30 (11.3) (3) 2000 P6298 DD538 T611 220101-250620 SL650.set
+EA: PX3.71
+Symbol: NZDCHF
+Timeframe: M30
+InitialDeposit: 2000
+ProfitAmount: 6298
+DrawDown: 538
+StartDate: 220101
+EndDate: 250620
+Stoploss: 650
+WinRate: 
+ProfitFactor: 
+NumTrade: 611
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+EA: PX3.71
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 1000
+ProfitAmount: 2666
+DrawDown: 453
+StartDate: 20000101
+EndDate: 20250627
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1-Lot-Med.set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1-Lot.set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Lot Size and Position Sizing Optimization\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+EA: PX3.71
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 1000
+ProfitAmount: 2666
+DrawDown: 453
+StartDate: 20000101
+EndDate: 20250627
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627_OPT-190.set
+EA: PX3.71
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 1000
+ProfitAmount: 2666
+DrawDown: 453
+StartDate: 20000101
+EndDate: 20250627
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627_OPT.set
+EA: PX3.71
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 1000
+ProfitAmount: 2666
+DrawDown: 453
+StartDate: 20000101
+EndDate: 20250627
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500).set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT.set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406.set
+EA: FN3.5
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 3932
+DrawDown: 523
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2082
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406_OPT-1.set
+EA: FN3.5
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 3932
+DrawDown: 523
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2082
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406_OPT-3.set
+EA: FN3.5
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 3932
+DrawDown: 523
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2082
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDCAD M5 D523 P3932 T2082 Custom(0.03,0.01,0.01,0.01,0.27,0.28,0.48) 202201-202406_OPT.set
+EA: FN3.5
+Symbol: AUDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 3932
+DrawDown: 523
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2082
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 AUDUSD M5 D491 P2057 T1631 Custom(0.01,0.01,0.02,0.02,0.03,0.05,0.07,0.09,0.09) 202201-202406.set
+EA: FN3.5
+Symbol: AUDUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2057
+DrawDown: 491
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1631
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406.set
+EA: FN3.5
+Symbol: CHFJPY
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 764
+DrawDown: 150
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1386
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT-926.set
+EA: FN3.5
+Symbol: CHFJPY
+Timeframe: M15
+InitialDeposit: 926
+ProfitAmount: 764
+DrawDown: 150
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1386
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT.set
+EA: FN3.5
+Symbol: CHFJPY
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 764
+DrawDown: 150
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1386
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1809
+DrawDown: 341
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1850
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406_OPT-1.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1809
+DrawDown: 341
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1850
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406_OPT.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1809
+DrawDown: 341
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1850
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 GBPNZD M30 D178 P1327 T1297 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1327
+DrawDown: 178
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1297
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2074
+DrawDown: 313
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2685
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT-1.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2074
+DrawDown: 313
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2685
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2074
+DrawDown: 313
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2685
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710.set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 4493
+DrawDown: 485
+StartDate: 20200101
+EndDate: 20250710
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 2820
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT-253.set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 253
+ProfitAmount: 4493
+DrawDown: 485
+StartDate: 20200101
+EndDate: 20250710
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 2820
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT.set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 4493
+DrawDown: 485
+StartDate: 20200101
+EndDate: 20250710
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 2820
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+EA: PX3.71
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 1000
+ProfitAmount: 2666
+DrawDown: 453
+StartDate: 20000101
+EndDate: 20250627
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FC3.41 EURSGD M1 P3600 DD470 T7115 20200101-20250101 (SL500)_OPT-1.set
+EA: FC3.41
+Symbol: EURSGD
+Timeframe: M1
+InitialDeposit: 
+ProfitAmount: 3600
+DrawDown: 470
+StartDate: 20200101
+EndDate: 20250101
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 7115
+SetVersion: 3.41
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 AUDUSD M5 D491 P2057 T1631 Custom(0.01,0.01,0.02,0.02,0.03,0.05,0.07,0.09,0.09) 202201-202406.set
+EA: FN3.5
+Symbol: AUDUSD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2057
+DrawDown: 491
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1631
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 CHFJPY M15 D150 P764 T1386 Custom(0.01,0.01,0.01,0.02,0.03,0.04,0.08,0.12) 202201-202406_OPT-926.set
+EA: FN3.5
+Symbol: CHFJPY
+Timeframe: M15
+InitialDeposit: 926
+ProfitAmount: 764
+DrawDown: 150
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1386
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 GBPNZD M15 D341 P1809 T1850 Custom(0.01,0.01,0.02,0.02,0.04,0.04,0.08,0.16) 202201-202406_OPT-1.set
+EA: FN3.5
+Symbol: GBPNZD
+Timeframe: M15
+InitialDeposit: 
+ProfitAmount: 1809
+DrawDown: 341
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 1850
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\FN3.5 NZDCAD M5 D313 P2074 T2685 Custom(0.01,0.01,0.03,0.04,0.08,0.11,0.13,0.15) 202201-202406_OPT-1.set
+EA: FN3.5
+Symbol: NZDCAD
+Timeframe: M5
+InitialDeposit: 
+ProfitAmount: 2074
+DrawDown: 313
+StartDate: 202201
+EndDate: 202406
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 2685
+SetVersion: 3.5
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\Optimation\Strategy\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710_OPT-253.set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 253
+ProfitAmount: 4493
+DrawDown: 485
+StartDate: 20200101
+EndDate: 20250710
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 2820
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\AUDCAD M30 P3385 DD374 T2632 PF2.24 20200101-20250619-1.set
+EA: 
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3385
+DrawDown: 374
+StartDate: 20200101
+EndDate: 20250619
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.24
+NumTrade: 2632
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\AUDCAD M30 P3385 DD374 T2632 PF2.24 20200101-20250619.set
+EA: 
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3385
+DrawDown: 374
+StartDate: 20200101
+EndDate: 20250619
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.24
+NumTrade: 2632
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Adam PX3.71 EURGBP H1 P1827 DD412 PF1.98 T757 20200101-20250606.set
+EA: PX3.71
+Symbol: EURGBP
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1827
+DrawDown: 412
+StartDate: 20200101
+EndDate: 20250606
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.98
+NumTrade: 757
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Eric PX3.71 GBPNZD M30 P1424 DD294 PF2.2 T1331 20200101- 20250525.set
+EA: PX3.71
+Symbol: GBPNZD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 1424
+DrawDown: 294
+StartDate: 20200101
+EndDate: 20250525
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.2
+NumTrade: 1331
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Jacko PX3.71 EURCAD M30 P2066 DD489 PF2.6 T1099 SL600 20200101-20250523.set
+EA: PX3.71
+Symbol: EURCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 2066
+DrawDown: 489
+StartDate: 20200101
+EndDate: 20250523
+Stoploss: 600
+WinRate: 
+ProfitFactor: 2.6
+NumTrade: 1099
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Kenix XAUUSD 3000 M30 P2710 DD416 PF4.51 T436 20230101-20250527 (SL420).set
+EA: 
+Symbol: XAUUSD
+Timeframe: M30
+InitialDeposit: 3000
+ProfitAmount: 2710
+DrawDown: 416
+StartDate: 20230101
+EndDate: 20250527
+Stoploss: 420
+WinRate: 
+ProfitFactor: 4.51
+NumTrade: 436
+SetVersion: 
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Lawrence PX3.71 AUDUSD M30 P3120 DD563 PF2.27 T1087 2020101-20250604.set
+EA: PX3.71
+Symbol: AUDUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3120
+DrawDown: 563
+StartDate: 2020101
+EndDate: 20250604
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.27
+NumTrade: 1087
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Max PX3.71 EURUSD H1 1000 P2666 DD453  T784 20000101-20250627.set
+EA: PX3.71
+Symbol: EURUSD
+Timeframe: H1
+InitialDeposit: 1000
+ProfitAmount: 2666
+DrawDown: 453
+StartDate: 20000101
+EndDate: 20250627
+Stoploss: 
+WinRate: 
+ProfitFactor: 
+NumTrade: 784
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 PX3.71 RAY AUDNZD H1 P2021 DD680 T762 (SL750) 20200101-20250527.set
+EA: PX3.71
+Symbol: AUDNZD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 2021
+DrawDown: 680
+StartDate: 20200101
+EndDate: 20250527
+Stoploss: 750
+WinRate: 
+ProfitFactor: 
+NumTrade: 762
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 PX3.71 RAY AUDNZD H1 P958 DD369 T808 (SL500) 20200101-20250527.set
+EA: PX3.71
+Symbol: AUDNZD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 958
+DrawDown: 369
+StartDate: 20200101
+EndDate: 20250527
+Stoploss: 500
+WinRate: 
+ProfitFactor: 
+NumTrade: 808
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Rocky PX3.71 M30 AUDCAD P4835 DD854 T1628 20210101-20250523(SL1000).set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 4835
+DrawDown: 854
+StartDate: 20210101
+EndDate: 20250523
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 
+NumTrade: 1628
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Rocky PX3.71 M30 GBPUSD P3018 DD752 T1355 20200101-202250523(SL1000).set
+EA: PX3.71
+Symbol: GBPUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3018
+DrawDown: 752
+StartDate: 20200101
+EndDate: 20225052
+Stoploss: 1000
+WinRate: 
+ProfitFactor: 
+NumTrade: 1355
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\D38 Vincent PX3.71 NZDUSD M30 P3335 DD477 PF2.55 T1085 20200101 20250527.set
+EA: PX3.71
+Symbol: NZDUSD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 3335
+DrawDown: 477
+StartDate: 20200101
+EndDate: 20250527
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.55
+NumTrade: 1085
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 AUDCAD M30  P4493 DD485 T2820 PF1.8 20200101-20250710.set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 4493
+DrawDown: 485
+StartDate: 20200101
+EndDate: 20250710
+Stoploss: 
+WinRate: 
+ProfitFactor: 1.8
+NumTrade: 2820
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 AUDCAD M30 P4310 DD346.11 T2683 PF2.48 Pertick 2020.01.01~2025.05.25.set
+EA: PX3.71
+Symbol: AUDCAD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 4310
+DrawDown: 346
+StartDate: 
+EndDate: 
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.48
+NumTrade: 2683
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 EURAUD M30 P723 DD477 PF2.51 T974 20210101-20250601.set
+EA: PX3.71
+Symbol: EURAUD
+Timeframe: M30
+InitialDeposit: 
+ProfitAmount: 723
+DrawDown: 477
+StartDate: 20210101
+EndDate: 20250601
+Stoploss: 
+WinRate: 
+ProfitFactor: 2.51
+NumTrade: 974
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 USDCAD H1 P1299 DD589 T537 PF3 20200101-20250608.set
+EA: PX3.71
+Symbol: USDCAD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 1299
+DrawDown: 589
+StartDate: 20200101
+EndDate: 20250608
+Stoploss: 
+WinRate: 
+ProfitFactor: 3
+NumTrade: 537
+SetVersion: 3.71
+Step: 
+
+Filename: C:\Users\Philip\OneDrive\Desktop\AI CAD\Setting\PX set only\PX3.71 USDCAD H1 P842 DD578 T331 PF2 20200101-20250608.set
+EA: PX3.71
+Symbol: USDCAD
+Timeframe: H1
+InitialDeposit: 
+ProfitAmount: 842
+DrawDown: 578
+StartDate: 20200101
+EndDate: 20250608
+Stoploss: 
+WinRate: 
+ProfitFactor: 2
+NumTrade: 331
+SetVersion: 3.71
+Step: 
+

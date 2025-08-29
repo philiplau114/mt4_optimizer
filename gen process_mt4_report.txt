@@ -1,0 +1,7 @@
+Please help to include the following in process_mt4_report, please refer to attached mt4_htm_parser, build_filename and set_file_updater
+0. new parameter of EA_name
+1. new parameter of input_set_file
+2. new parameter of output_set_file_path default "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\"
+3. invoke build_filename (use metrics to collect parameter values) to generate the output set file name and magic number 
+4. copy the input_set_file to output_file as output_set_file_path+output set file name
+5. invoke update_single_parameter(output_file, Magic, magic number)

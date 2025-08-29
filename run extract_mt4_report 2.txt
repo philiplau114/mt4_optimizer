@@ -1,0 +1,24 @@
+html_file = "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\Arian PX3.71 AUDCAD M5 2500 P3036 DD461 20230101 20250421 (SL 300)-backtest_report.htm"
+--step_id = 1
+--metric_type = "MT4 Backtest Report"
+--EA_name = "Ace Phoenix Std v3.71"
+--input_set_file = "C:\Users\Philip\Documents\GitHub\EA_Automation\01_user_inputs\Arian PX3.71 AUDCAD M5 2500 P3036 DD461 20230101 20250421 (SL 300).set"
+--output_set_file_path = "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\"
+--db_path = "C:\Users\Philip\Documents\GitHub\EA_Automation\EA_Automation.db"
+--summary_metrics_path = "summary_metrics.csv"
+
+
+python "C:\Users\Philip\Documents\GitHub\mt4_optimizer\extract_mt4_report.py" ^
+  "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\Arian PX3.71 AUDCAD M5 2500 P3036 DD461 20230101 20250421 (SL 300)-backtest_report.htm" ^
+  --step_id 1 ^
+  --metric_type "MT4 Backtest Report" ^
+  --EA_name "PX3.71" ^
+  --input_set_file "C:\Users\Philip\Documents\GitHub\EA_Automation\01_user_inputs\Arian PX3.71 AUDCAD M5 2500 P3036 DD461 20230101 20250421 (SL 300).set" ^
+  --output_set_file_path "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest" ^
+  --db_path "C:\Users\Philip\Documents\GitHub\EA_Automation\EA_Automation.db" ^
+  --summary_metrics_path "_summary_metrics.csv" ^
+  --config_xlsx "C:\Users\Philip\Documents\UiPath\MT4 Backtesting Automation\Data\Config.xlsx" ^
+  --perf_criteria_xlsx "C:\Users\Philip\Documents\UiPath\MT4 Backtesting Automation\Data\Config.xlsx"
+  
+  
+python extract_mt4_report.py "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\Arian PX3.71 AUDCAD M5 2500 P3036 DD461 20230101 20250421 (SL 300)-backtest_report.htm" --step_id 1 --metric_type "MT4 Backtest Report" --EA_name "PX.71" --input_set_file "C:\Users\Philip\Documents\GitHub\EA_Automation\01_user_inputs\Arian PX3.71 AUDCAD M5 2500 P3036 DD461 20230101 20250421 (SL 300).set" --output_set_file_path "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\" --db_path "C:\Users\Philip\Documents\GitHub\EA_Automation\EA_Automation.db" --summary_metrics_path "summary_metrics.csv"

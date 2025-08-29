@@ -1,0 +1,259 @@
+XAUUSD, Gold US Dollar
+EURGBP, Euro vs Great Britain Pound 
+EURJPY, Euro vs Japanese Yen
+EURNZD, Euro vs New Zealand Dollar
+EURSGD, Euro vs Singapore Dollar
+EURTRY, Euro vs Turkish Lira
+EURUSD, Euro vs US Dollar
+GBPAUD, Great Britain Pound vs Australian Dollar
+GBPCHF, Great Britain Pound vs Swiss Franc
+GBPJPY, Great Britain Pound vs Japanese Yen
+GBPNZD, Great Britain Pound vs New Zealand Dollar
+GBPSGD, Great Britain Pound vs Singapore Dollar
+GBPUSD, Great Britain Pound vs US Dollar
+AUDCNH, Australian Dollar vs Chinese Yuan
+NZDCAD, New Zealand Dollar vs Canadian Dollar
+NZDCHF, New Zealand Dollar vs Swiss Franc
+NZDJPY, New Zealand Dollar vs Japanese Yen
+NZDSGD, New Zealand Dollar vs Singapore Dollar
+GBPCAD, Great Britain Pound vs Canadian Dollar
+AUDCAD, Australian Dollar vs Canadian Dollar
+AUDCHF, Australian Dollar vs Swiss Franc
+AUDJPY, Australian Dollar vs Japanese Yen
+AUDSGD, Australian Dollar vs Singapore Dollar
+AUDUSD, Australian Dollar vs US Dollar
+CADJPY, Canadian Dollar vs Japanese Yen
+CADCHF, Canadian Dollar vs Swiss Franc
+CHFJPY, Swiss Franc vs Japanese Yen
+EURAUD, Euro vs Australian Dollar
+AUDNZD, Australian Dollar vs New Zealand Dollar
+EURCAD, Euro vs Canadian Dollar
+EURCHF, Euro vs Swiss Franc
+NZDUSD, New Zealand Dollar vs US Dollar
+SGDJPY, Singapore Dollar vs Japanese Yen
+USDCAD, US Dollar vs Canadian Dollar
+USDCHF, US Dollar vs Swiss Franc
+USDCNH, US Dollar vs Chinese Yuan
+USDNOK, US Dollar vs Norwegian Krone
+USDJPY, US Dollar vs Japanese Yen
+USDSEK, US Dollar vs Swedish Krona
+USDSGD, US Dollar vs Singapore Dollar
+USDTRY, US Dollar vs Turkish Lira
+XAGUSD, Silver vs Australian Dollar
+XAGUSD, Silver - US Dollar
+XAUUSD, Gold vs Australian Dollar
+Nikkei225, Nikkei Index Cash CFD (JPY)
+CL-OIL, Crude Oil Future CFD (USD)
+USOUSD, WTI Crude Oil Cash
+UKOUSD, Brent Crude Oil Cash
+BTCUSD, Bitcoin
+BCHUSD, Bitcoin Cash
+LTCUSD, Litecoin
+ETHUSD, Ethereum
+XRPUSD, Ripple
+EURDKK, Euro vs Danish Krone
+CHFSGD, Swiss Franc vs Singapore Dollar
+EURPLN, Euro vs Polish Zloty
+EURSEK, Euro vs Swedish Krona
+USDMXN, US Dollar vs Mexican Peso
+USDPLN, US Dollar vs Polish Zloty
+USDZAR, US Dollar vs South African Rand
+USDCZK, US Dollar vs Czech Koruna
+USDHUF, US Dollar vs Hungarian Forint
+SP1200-r, S&P/ASX 200 Index Cash CFD (AUD)
+DJI30-r, Dow Jones Index Cash CFD (USD)
+NAS100-r, NAS100 Cash
+EUSTO-r, EUSTX50 Cash
+FRA40-r, France 40 Index
+ES35-r, ES35 Index Cash
+S&P500-r, S&P Index Cash
+VIX-r, Volatility Index
+CHINA50-r, China A50 Index CFD (USD)
+COPPER-cr, Copper
+COTTON-cr, Cotton - Cash
+GASOIL-cr, Low Sulphur Gasoil - Cash
+NG-cr, Natural Gas
+OJI-cr, Orange Juice - Cash
+SUGAR-cr, Sugar Raw - Cash
+COFFEE-cr, Coffee Arabica - Cash
+COCOA-cr, US Cocoa - Cash
+SOY-cr, US Soybean - Cash
+USA2000-r, US SMALL CAP 2000 - CASH
+SA40-r, South Africa 40 - CASH
+EOSUSD, EOS
+XLMUSD, Stellar Lumens
+XAEUR, Gold Euro
+BTCEUR, Bitcoin vs Euro
+ETHEUR, Ethereum vs Euro
+BTCBCH, Bitcoin vs Bitcoin Cash
+BTCETH, Bitcoin vs Ethereum
+BTCUSD, Bitcoin vs US Dollar
+LTCETH, Bitcoin vs Litecoin
+ETHLTC, Ethereum vs Litecoin
+HOOD, ROBINHOOD MARKETS INC - A
+TSLA, Tesla
+SPOT, Spotify Technology SA
+UL, Unilever Plc
+CRM, Salesforce.com Inc
+IBM, International Business Machines Corp
+AAPL, Apple Inc.
+GOOG, ALPHABET INC-CL C
+MSFT, MICROSOFT CORP
+AMZN, AMAZON.COM INC
+ALIBABA, ALIBABA GROUP HOLDING-SP ADR
+JNJ, JOHNSON & JOHNSON
+XOM, EXXON MOBIL CORP
+BAC, BANK OF AMERICA CORP
+WFC, WELLS FARGO & CO
+WMT, WALMART INC
+VISA, VISA INC-CLASS A SHARES
+CVX, CHEVRON CORP
+HD, HOME DEPOT INC
+TSM, TAIWAN SEMICONDUCTOR-SP ADR
+UNH, UNITEDHEALTH GROUP INC
+T, AT&T INC
+INTEL, INTEL CORP
+PFIZER, PFIZER INC
+VZ, VERIZON COMMUNICATIONS INC
+JPM, JPMORGAN CHASE & CO
+PG, PROCTER & GAMBLE CO/THE
+HSBCN, HSBC HOLDINGS PLC-SPONS ADR
+NVS, NOVARTIS AG-SPONSORED ADR
+ORCL, ORACLE CORP
+CSCO, CISCO SYSTEMS INC
+TOYOTA, TOYOTA MOTOR CORP -SPON ADR
+CITI, CITIGROUP INC
+KO, COCA-COLA CO/THE
+BOEING, BOEING CO/THE
+CMCSA, COMCAST CORP-CLASS A
+MA, MASTERCARD INC-A
+BUD, ANHEUSER-BUSCH INBEV SPN ADR
+PEP, PEPSICO INC
+PM, PHILIP MORRIS INTERNATIONAL
+DISNEY, WALT DISNEY CO/THE
+MMM, 3M CO
+NVIDIA, NVIDIA CORP
+NFLX, NETFLIX INC
+BIDU, BAIDU INC - SPON ADR
+JD, JD.COM INC-ADR
+NTES, NETEASE INC-ADR
+MCD, MCDONALD'S CORP
+SBUX, STARBUCKS CORP
+ABBVIE, ABBVIE INC
+TCOM, Trip.com Group Ltd
+SHOP, SHOPIFY INC - CLASS A
+HON, HONEYWELL INTERNATIONAL INC
+SE, SEA LTD-ADR
+MRNA, MODERNA INC
+ZM, ZOOM VIDEO COMMUNICATIONS-A
+SNOW, SNOWFLAKE INC-CLASS A
+BNTX, BIONTECH SE-ADR
+NIO, NIO INC - ADR
+COIN, COINBASE GLOBAL INC -CLASS A
+LULU, LULULEMON ATHLETICA INC
+XPENG, XPENG INC - ADR
+UNITY, UNITY SOFTWARE INC
+LI, LI AUTO INC - ADR
+TRMB, TRIMBLE INC
+ABNB, Airbnb Inc
+AMAT, Applied Materials Inc
+AVGO, Broadcom Inc
+AXP, American Express Co
+CAT, Caterpillar Inc
+GS, Goldman Sachs Group Inc
+LMT, Lockheed Martin Corp
+NKE, Nike Inc
+PYPL, PayPal Holdings Inc
+UBER, Uber Technologies Inc
+META, Meta Platforms Inc
+SPCE, VIRGIN GALACTIC HOLDINGS INC
+AALG, AMERICAN AIRLINES GROUP INC
+USDBRL, US Dollar vs Brazilian
+USDINR, US Dollar vs Indian Rupee
+ADAUSD, Cardano
+SOLUSD, Solana
+DOTUSD, Polkadot
+UNIUSD, Uniswap
+DOGUSD, Dogecoin
+LINKUSD, Chainlink
+HK50Ftr, HK50 Future
+DJ30Ftr, DJ30 Future
+NAS100Ftr, NAS100 Future
+SP500Ftr, SP500 Future
+CHINA50Ftr, CHINA50 Future
+BATUSD, Basic Attention Token
+IOTAUSD, IOTA
+TRXUSD, TRON
+ZECUSD, Zcash
+ALGOUSD, Algorand
+FILUSD, Filecoin
+MKRUSD, Maker
+SHIBUSD, 10000SHIBA
+AVAXUSD, Avalanche
+NEOUSDT, Neo
+UKOUSDf, Brent Crude Oil Future
+HK50-r, Hang Seng Index Cash CFD (HKD)
+ETCUSD, Ethereum Classic
+NERUSD, NEAR protocol
+ATMUSD, Cosmos
+SANDUSD, The Sandbox
+SUSHIUSD, Sushi
+AXSUSD, Axie Infinity
+CRVUSD, Curve
+ONEUSD, Harmony
+LRCUSD, Loopring
+INCUSD, 1inch
+XTZUSD, Tezos
+BNBUSD, Binance Coin
+XPTUSD-r, Platinum vs US Dollar
+XPDUSD-r, Palladium - Cash
+Soybean-cr, Soybean - Cash
+Wheat-cr, US Wheat (SRW) - Cash
+BVSPX-r, Bovespa Cash CFD (BRL)
+USDCOP, US Dollar vs Colombia Peso
+USDIDR, US Dollar vs Indonesian Rupiah
+USDKRW, US Dollar vs South Korean won
+USDTWD, US Dollar vs Taiwan Dollar
+USDTHB, United States Dollar vs Thai Baht
+JPN225ftr, Nikkei Future
+FRA40Ftr, FRA40 Future
+GRTUSD, The Graph
+EURHUF, Euro vs Hungarian Forint
+GER40Ftr, GER40 Future
+UK100Ftr, UK100 Future
+EURCZK, Euro vs Czech Koruna
+BTCJPY, Bitcoin vs Japanese Yen
+ETHJPY, Ethereum vs Japanese Yen
+USDJPY, Tether vs Japanese Yen
+USDTJPY, Tether vs Japanese Yen
+BITO, ProShares Bitcoin Strategy ETF
+BITB, Bitwise Bitcoin ETP Trust
+ARKB, ARK 21Shares Bitcoin ETF
+BTCO, Invesco Galaxy Bitcoin ETF
+IBIT, iShares Bitcoin Trust
+GBTC, Grayscale Bitcoin Trust
+XAUJPY, Gold vs Japanese Yen
+EURIBOR3M, EURIBOR Futures
+EUBUND, Euro Bund Futures
+EUBSY, Euro - BUXL Futures
+EUBO7, Euro - Schatz Futures
+EUBO30Y, Euro - BUXL Futures
+LongGLT, UK Long Gilt Futures
+SNote.10Y, US 10 YR T-Note Futures Decimalised
+TWINDEXF, Taiwan RIC Index Cash CFD
+SGP20-r, Singapore 20 Index Cash CFD
+HKHCFtr, Hang Seng Tech Index Cash CFD (HKD)
+SOLJPY, Solana vs Japanese Yen
+ADAJPY, Cardano vs Japanese Yen
+BCHJPY, Bitcoin Cash vs Japanese Yen
+LTCJPY, Litecoin vs Japanese Yen
+XLMJPY, Stellar Lumens vs Japanese Yen
+XRPJPY, Ripple vs Japanese Yen
+TRUMPUSD, TrumpCoin
+USDILS, US dollar vs Israeli Shekel
+IND50-r, India 50 Cash
+CHINAH-r, Hong Kong China H-shares Cash
+NETH25-r, Netherlands 25 Cash
+SWI20-r, Switzerland 20 Cash
+BTCGLD, Bitcoin vs Gold
+ETHGLD, Ethereum vs Gold

@@ -1,0 +1,213 @@
+Table controller_jobs as CJ {
+  id integer [pk]
+  user_id text
+  job_type text
+  symbol text
+  timeframe text
+  ea_name text
+  original_file text
+  status text        // pending, running, completed, failed, stuck
+  created_at datetime
+  updated_at datetime
+  max_attempts integer
+  attempt_count integer
+  trace_json text
+}
+
+Table controller_tasks as CT {
+  id integer [pk]
+  job_id integer [ref: > CJ.id]
+  step_number integer
+  step_name text
+  status text        // pending, running, done, failed, skipped
+  assigned_worker text
+  file_path text
+  description text
+  created_at datetime
+  updated_at datetime
+  attempt_count integer
+  max_attempts integer
+}
+
+Table controller_attempts as CA {
+  id integer [pk]
+  task_id integer [ref: > CT.id]
+  attempt_number integer
+  status text        // success, error, timeout
+  started_at datetime
+  finished_at datetime
+  error_message text
+  result_json text
+}
+
+Table controller_ai_suggestions as CAS {
+  id integer [pk]
+  job_id integer [ref: > CJ.id]
+  task_id integer [ref: > CT.id]
+  prompt text
+  response text
+  created_at datetime
+}
+
+Table optimization_section as OS {
+  id integer [pk]
+  suggestion_id integer [ref: > CAS.id]
+  section_name text
+  explanation text
+}
+
+Table optimization_parameter as OP {
+  id integer [pk]
+  suggestion_id integer [ref: > CAS.id]
+  parameter_name text
+  start real
+  end real
+  step real
+  reason text
+}
+
+Table controller_artifacts as CAF {
+  id integer [pk]
+  task_id integer [ref: > CT.id]
+  artifact_type text      // set_file, backtest_report, optimization_report, summary_metrics, ai_suggestion_file, etc.
+  file_name text
+  file_path text          // For file-system/object storage
+  file_blob blob          // Actual file content (for <=1MB files)
+  link_type text          // Dynamic link: e.g. "test_metrics", "controller_ai_suggestions"
+  link_id integer         // Dynamic FK target id
+  meta_json text
+  created_at datetime
+}
+
+Table controller_task_logs as CTL {
+  id integer [pk]
+  task_id integer [ref: > CT.id]
+  event_type text
+  message text
+  created_at datetime
+}
+
+Table test_metrics as TM {
+  id integer [pk]
+  controller_task_id integer [ref: > CT.id]
+  metric_type text
+  net_profit real
+  gross_profit real
+  gross_loss real
+  profit_factor real
+  expected_payoff real
+  max_drawdown real
+  max_drawdown_pct real
+  max_relative_drawdown real
+  max_relative_drawdown_pct real
+  absolute_drawdown real
+  initial_deposit real
+  total_trades integer
+  profit_trades_pct real
+  loss_trades_pct real
+  largest_profit real
+  largest_loss real
+  recovery_factor real
+  sharpe_ratio real
+  sortino_ratio real
+  net_profit_per_initial_deposit real
+  absolute_drawdown_per_initial_deposit real
+  symbol text
+  period text
+  model text
+  bars_in_test integer
+  ticks_modelled integer
+  modelling_quality real
+  mismatched_charts_errors integer
+  spread real
+  short_positions integer
+  short_positions_won_pct real
+  long_positions integer
+  long_positions_won_pct real
+  largest_profit_trade real
+  largest_loss_trade real
+  max_consecutive_wins integer
+  max_consecutive_wins_profit real
+  max_consecutive_profit real
+  max_consecutive_profit_count integer
+  max_consecutive_losses integer
+  max_consecutive_losses_loss real
+  max_consecutive_loss real
+  max_consecutive_loss_count integer
+  win_rate real
+  metrics_json text
+  parameters_json text
+  summary_csv text
+  created_at datetime
+  start_date datetime
+  end_date datetime
+  min_total_recovery real
+  min_trades integer
+  min_max_drawdown real
+  criteria_passed integer
+  criteria_reason text
+  set_file_name text
+  magic_number integer
+  input_html_file text
+  input_set_file text
+  optimization_pass_id integer
+}
+
+Table set_files as SF {
+  id integer [pk]
+  job_id integer [ref: > CJ.id]
+  file_name text
+  file_path text
+  file_blob blob
+  uploaded_by text
+  created_at datetime
+  meta_json text
+}
+
+Table portfolios as PF {
+  id integer [pk]
+  portfolio_name text
+  description text
+  created_at datetime
+  meta_json text
+}
+
+Table position_sizing_results as PSR {
+  id integer [pk]
+  job_id integer [ref: > CJ.id]         // For per-strategy sizing
+  portfolio_id integer [ref: > PF.id]   // For portfolio-level sizing
+  method text                           // 'kelly', 'monte_carlo', etc.
+  input_params_json text
+  result_summary_json text
+  simulation_blob blob
+  created_at datetime
+}
+
+Table trade_records as TR {
+  id integer [pk]
+  controller_task_id integer [ref: > CT.id]
+  job_id integer [ref: > CJ.id]
+  portfolio_id integer [ref: > PF.id]    // optional, if jobs are grouped into portfolios
+  order_id integer                       // MT4 Order number
+  parent_order_id integer                // For close, link to opened order (optional)
+  symbol text
+  open_time datetime
+  open_type text
+  open_price real
+  open_size real
+  open_sl real
+  open_tp real
+  close_time datetime
+  close_type text
+  close_price real
+  close_size real
+  close_sl real
+  close_tp real
+  profit real
+  balance_after_trade real
+  commission real
+  swap real
+  magic_number integer
+  comment text
+  created_at datetime
+}

@@ -1,0 +1,1 @@
+python extract_mt4_report.py "C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\Arian PX3.71 AUDCAD M5 2500 P3036 DD461 20230101 20250421 (SL 300)-backtest_report.htm"

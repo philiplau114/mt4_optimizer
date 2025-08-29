@@ -1,0 +1,33 @@
+Ace Bubo v1.2.ex4
+Ace Cobra Prem v2.0 Champion VPS Trial.ex4
+Ace Falcon Std v3.41.ex4
+Ace Lotto Std v1.2.ex4
+Ace Phoenix Std v3.71.ex4
+Moving Average.ex4
+MACD Sample.ex4
+
+
+now I want to do a loop in uipath, of ea selector, please advise how:
+0. target selection then exit the loop
+else send hot key "Up"
+	: Ace Phoenix Std v3.71.ex4
+1. data in ea selector:
+Ace Bubo v1.2.ex4
+Ace Cobra Prem v2.0 Champion VPS Trial.ex4
+Ace Falcon Std v3.41.ex4
+Ace Lotto Std v1.2.ex4
+Ace Phoenix Std v3.71.ex4
+Moving Average.ex4
+MACD Sample.ex4
+2. logic:
+loop
+get the current value from ea selector
+if the current value = target selection then exit the loop
+else send hot key "Up"
+	get the current value from ea selector
+	if the current value = target selection then exit the loop
+	if the current value no longer change
+		loop
+			send hot key "Down"
+				get the current value from ea selector
+				if the current value = target selection then exit both loop
