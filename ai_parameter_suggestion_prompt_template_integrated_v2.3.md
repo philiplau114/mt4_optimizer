@@ -93,6 +93,9 @@ Use these targets and the section/parameter history to guide your mode, section,
 - Lot size: Always start with the minimum (e.g., 0.01). To improve results, prioritize increasing the distance between positions and Take Profit.
 - Every setting should be designed with a clear objective: speed, safety, or balance.
 - Typical goals: High Profit Factor (PF), Low Drawdown (DD), High trade count (T).
+- Foundation Optimization: If the backtest result is far from the target, prioritize adjustments in this sequence: Entry Settings, Filter Settings, Direction Control.
+- Profit Optimization: If the profit in backtest results is not good, focus on adjusting: Exit General Setting.
+- Fine Tuning: If the result is close to the target but needs further refinement, focus on: Risk Control Settings, Lot Manage, Martingala Manage, and DD Reduction Algorithm.
 
 **Output Requirements:**
 
