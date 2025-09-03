@@ -1,9 +1,37 @@
-openai.txt
-run ai set optimizer.txt
+# Environment & secrets
 .env
 *.env
-*.log
-*.txt
-*.json
 secrets/
-# and any config file or directory where you might store API keys
+# Any config file or directory where you might store API keys
+
+# Log, database, and cache files
+*.log
+*.db
+.DS_Store
+__pycache__/
+*.pyc
+
+# Python virtual environments
+venv/
+
+# PyArmor output and runtime files
+/dist/
+/build/
+/output/
+pyarmor.lic
+pytransform.key
+pytransform3.so
+pytransform3.dll
+pytransform3.dylib
+
+# IDE/editor configs
+.idea/
+.vscode/
+
+# Ignore specific files if needed (uncomment if you want)
+openai.txt
+run ai set optimizer.txt
+
+# Be careful with these - only enable if you want to ignore ALL .txt or .json files!
+# *.txt
+# *.json
