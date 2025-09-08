@@ -14,6 +14,7 @@ import build_filename
 from build_filename import build_filename
 from set_file_updater import update_single_parameter
 
+from wave_analysis import get_wave_analysis_result_block
 # --- Logging Setup ---
 class FlushFileHandler(logging.FileHandler):
     def emit(self, record):
@@ -33,6 +34,86 @@ logging.basicConfig(
     handlers=handlers
 )
 logger = logging.getLogger(__name__)
+
+def get_wave_analysis_parameters_from_config(config_xlsx_path, sheet_name="WaveAnalysisConfig"):
+    """
+    Reads wave analysis parameters from config_xlsx_path (sheet_name), returns a dict for get_wave_analysis_result_block.
+    Assumes columns: Name | Value | Description (case-insensitive).
+    """
+    import openpyxl
+
+    param_names = [
+        "csv_path", "depth", "deviation", "backstep", "percentage",
+        "force_factor", "normal_wave", "medium_wave", "rare_wave",
+        "source"
+    ]
+    param_dict = {}
+
+    try:
+        wb = openpyxl.load_workbook(config_xlsx_path, data_only=True)
+        ws = wb[sheet_name]
+        # Find Name and Value columns
+        header_row = [str(cell.value).strip().lower() for cell in next(ws.iter_rows(min_row=1, max_row=1))]
+        name_idx = header_row.index("name") if "name" in header_row else 0
+        value_idx = header_row.index("value") if "value" in header_row else 1
+
+        for row in ws.iter_rows(min_row=2, values_only=True):
+            if not row or not row[name_idx]:
+                continue
+            name = str(row[name_idx]).strip()
+            value = row[value_idx]
+            if name in param_names:
+                param_dict[name] = value
+
+        # Convert numeric parameters to correct types
+        for k in ["depth", "deviation", "backstep", "percentage", "force_factor", "normal_wave", "medium_wave", "rare_wave"]:
+            if k in param_dict and param_dict[k] is not None:
+                try:
+                    param_dict[k] = float(param_dict[k])
+                    if k in ["depth", "backstep"]:
+                        param_dict[k] = int(param_dict[k])
+                except Exception:
+                    pass
+
+        return param_dict
+
+    except Exception as e:
+        logger.warning(f"Failed to load wave analysis parameters from config: {e}")
+        return {}
+
+def construct_wave_analysis_csv_path(
+    data_dir,
+    source,
+    symbol,
+    start_date,
+    end_date,
+    timeframe
+):
+    """
+    Constructs the full path to the wave analysis CSV file.
+    Example:
+      data_dir: "C:/Users/Philip/Documents/GitHub/mt4_optimizer/TickData"
+      source: "Dukascopy"
+      symbol: "AUDCAD"
+      start_date: "2006.01.03"
+      end_date: "2025.09.05"
+      timeframe: "M30"
+    Returns:
+      "C:/Users/Philip/Documents/GitHub/mt4_optimizer/TickData/Dukascopy-AUDCAD-2006.01.03-2025.09.05-bardata_M30.csv"
+    """
+    import os
+
+    # Clean up inputs
+    data_dir = os.path.normpath(data_dir)
+    source = str(source)
+    symbol = str(symbol)
+    start_date = str(start_date)
+    end_date = str(end_date)
+    timeframe = str(timeframe).upper()
+
+    filename = f"{source}-{symbol}-{start_date}-{end_date}-bardata_{timeframe}.csv"
+    full_path = os.path.join(data_dir, filename)
+    return full_path
 
 def read_config_xlsx(path, sheet_name="ai_optimizer"):
     import openpyxl
@@ -768,6 +849,47 @@ def process_mt4_report(
             db_path = db_path
             step_id = step_id
 
+            # (A) Get wave analysis parameters from config
+            wave_params = get_wave_analysis_parameters_from_config(config_xlsx_path, sheet_name="WaveAnalysisConfig")
+
+            Symbol = metrics.get("Symbol", "")
+            Symbol_code = Symbol.split()[0]  # Gets "AUDCAD"
+            Timeframe = metrics.get("period", "") or metrics.get("Period", "")
+            StartDate = metrics.get("start_date")
+            EndDate = metrics.get("end_date")
+
+            # Format start/end dates for filename convention
+            if StartDate:
+                start_date_str = StartDate.strftime("%Y.%m.%d")
+            else:
+                start_date_str = ""
+            if EndDate:
+                end_date_str = EndDate.strftime("%Y.%m.%d")
+            else:
+                end_date_str = ""
+
+            # (B) Construct the CSV path
+            wave_params["csv_path"] = construct_wave_analysis_csv_path(
+                data_dir=wave_params["csv_path"],  # (or wave_params["data_dir"] if that's your folder)
+                source=wave_params["source"],
+                symbol=Symbol_code,
+                start_date=start_date_str,
+                end_date=end_date_str,
+                timeframe=Timeframe
+            )
+
+            # (C) Build the wave analysis block
+            wave_analysis_block = get_wave_analysis_result_block(
+                csv_path=wave_params["csv_path"],
+                depth=wave_params["depth"],
+                deviation=wave_params["deviation"],
+                backstep=wave_params["backstep"],
+                percentage=wave_params["percentage"],
+                force_factor=wave_params["force_factor"],
+                normal_wave=wave_params["normal_wave"],
+                medium_wave=wave_params["medium_wave"]
+            )
+
             ai_set_file_path = suggest_mode_and_sections_and_params_openrouter(
                 template_path=template_path,
                 base_parameters=base_parameters,
@@ -780,7 +902,8 @@ def process_mt4_report(
                 step_id=step_id,
                 config_xlsx_path=config_xlsx_path,
                 suggestion_json_path=suggestion_json_path,
-                models=models
+                models=models,
+                wave_analysis_block=wave_analysis_block
             )
             logger.info(f"AI set file suggestion complete: {output_path}")
 
@@ -789,6 +912,7 @@ def process_mt4_report(
                 artifact_files.extend([
                     {"artifact_type": "ai_set", "file_path": output_path},
                     {"artifact_type": "ai_json", "file_path": suggestion_json_path},
+                    {"artifact_type": "ai_prompt", "file_path": suggestion_json_path.replace(".json", ".prompt.txt")},
                 ])
 
             for artifact in artifact_files:
