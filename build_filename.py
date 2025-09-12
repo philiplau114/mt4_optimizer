@@ -13,6 +13,16 @@ def generate_magic_number(base_filename: str) -> str:
     else:
         return ""
 
+def generate_fixed_magic_number(ea_name: str, symbol: str, timeframe: str) -> str:
+    """
+    Generate a deterministic 'magic number' from EA name, symbol, and timeframe.
+    Uses SHA256, takes first 4 bytes, returns absolute value as an integer string.
+    """
+    base_string = f"{ea_name}|{symbol}|{timeframe}"
+    hash_bytes = hashlib.sha256(base_string.encode('utf-8')).digest()
+    mt4_magic = abs(int.from_bytes(hash_bytes[:4], byteorder='little', signed=True))
+    return str(mt4_magic)
+
 def clean_symbol(symbol):
     """
     Extract only the main symbol, e.g., "AUDCAD" from "AUDCAD (Australian Dollar vs Canadian Dollar)"
@@ -55,7 +65,8 @@ def build_filename(
     base_filename = "_".join([str(x) for x in base_parts if x])
 
     # Generate magic number using the function
-    magic_number = generate_magic_number(base_filename)
+    #magic_number = generate_magic_number(base_filename)
+    magic_number = generate_fixed_magic_number(EA, SymbolShort, Timeframe)
 
     # Now insert magic_number into the full file name
     parts = base_parts + [f"M{magic_number}", SetVersion, Step]
