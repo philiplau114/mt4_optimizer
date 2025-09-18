@@ -5,31 +5,33 @@ import sqlite3
 import re
 import requests
 import logging
-import sys
+logging.disable(logging.CRITICAL)
+logger = logging.getLogger(__name__)
+
 import time
 from collections import Counter, defaultdict
 
 from set_file_updater import update_parameters
 
 # --- Logging Setup ---
-class FlushFileHandler(logging.FileHandler):
-    def emit(self, record):
-        super().emit(record)
-        self.flush()
-
-LOG_FILE = os.path.join(os.path.dirname(__file__), "ai_set_optimizer_openrouter.log")
-log_to_file = False  # Set to False to disable file logging
-
-handlers = []
-if log_to_file:
-    handlers.append(FlushFileHandler(LOG_FILE, encoding='utf-8'))
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=handlers
-)
-logger = logging.getLogger(__name__)
+# class FlushFileHandler(logging.FileHandler):
+#     def emit(self, record):
+#         super().emit(record)
+#         self.flush()
+#
+# LOG_FILE = os.path.join(os.path.dirname(__file__), "ai_set_optimizer_openrouter.log")
+# log_to_file = True  # Set to False to disable file logging
+#
+# handlers = []
+# if log_to_file:
+#     handlers.append(FlushFileHandler(LOG_FILE, encoding='utf-8'))
+#
+# logging.basicConfig(
+#     level=logging.INFO,
+#     format="%(asctime)s [%(levelname)s] %(message)s",
+#     handlers=handlers
+# )
+# logger = logging.getLogger(__name__)
 
 # --- AI JSON extraction and retry helpers ---
 def extract_json_code_blocks(response_text):
@@ -203,6 +205,7 @@ def save_optimization_suggestion_to_db(
     db_path, step_id, mode_sections_obj, param_array
 ):
     conn = sqlite3.connect(db_path)
+    #conn.execute("PRAGMA key = 'Kh78784bt!'")
     c = conn.cursor()
     c.execute(
         "INSERT INTO optimization_suggestion (step_id, mode) VALUES (?, ?)",
@@ -350,6 +353,7 @@ def suggest_mode_and_sections_and_params_openrouter(
         performance_metrics_block = ""
     set_file_name = os.path.basename(set_path)
     conn = sqlite3.connect(db_path)
+    #conn.execute("PRAGMA key = 'Kh78784bt!'")
     suggestion_history_summary_block = make_suggestion_history_summary_block(
         conn, set_file_name, spec_content=phoenix_spec_content
     )
@@ -367,13 +371,13 @@ def suggest_mode_and_sections_and_params_openrouter(
 
     logger.info(f"Models: {models}")
     logger.info(f"Prompt size: {len(prompt)} chars")
-    try:
-        import tiktoken
-        enc = tiktoken.encoding_for_model("gpt-4o")
-        token_count = len(enc.encode(prompt))
-        logger.info(f"Prompt token count: {token_count}")
-    except Exception as e:
-        logger.warning(f"Could not count prompt tokens: {e}")
+    # try:
+    #     import tiktoken
+    #     enc = tiktoken.encoding_for_model("gpt-4o")
+    #     token_count = len(enc.encode(prompt))
+    #     logger.info(f"Prompt token count: {token_count}")
+    # except Exception as e:
+    #     logger.warning(f"Could not count prompt tokens: {e}")
 
     all_mode_sections = []
     all_param_arrays = []
@@ -476,7 +480,7 @@ def main():
 
     if output_path:
         logger.info(f"Optimization completed successfully. Output: {output_path}")
-        print(output_path)
+        #print(output_path)
     else:
         logger.error("Optimization failed.")
 

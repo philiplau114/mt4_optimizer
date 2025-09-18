@@ -206,14 +206,53 @@ def extract_fields_from_csv(filename, symbol_csv_path):
     result = extract_fields(filename, symbol_list)
     return json.dumps(result)
 
+# if __name__ == "__main__":
+#     if len(sys.argv) < 3:
+#         print("Usage: python extract_setfilename_fields.py SymbolList.csv filename.set")
+#         sys.exit(1)
+#     symbol_csv = sys.argv[1]
+#     filename = sys.argv[2]
+#     symbol_list = load_symbol_list(symbol_csv)
+#     fields = extract_fields(filename, symbol_list)
+#     print(f"Filename: {filename}")
+#     for k, v in fields.items():
+#         print(f"{k}: {v}")
+
+# New Main to output JSON with success/error/data and prepare for pyinstall packaging for integration with uipath
+# {
+#   "success": true,
+#   "error": "",
+#   "EA": "Phoenix",
+#   "Symbol": "AUDCAD",
+#   "Timeframe": "M30",
+#   "InitialDeposit": "10000",
+#   "ProfitAmount": "493",
+#   "DrawDown": "142",
+#   "StartDate": "20240101",
+#   "EndDate": "20240901",
+#   "Stoploss": "Nil",
+#   "WinRate": "85",
+#   "ProfitFactor": "2.35",
+#   "NumTrade": "598",
+#   "SetVersion": "1",
+#   "Step": "3"
+# }
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: python extract_setfilename_fields.py SymbolList.csv filename.set")
-        sys.exit(1)
-    symbol_csv = sys.argv[1]
-    filename = sys.argv[2]
-    symbol_list = load_symbol_list(symbol_csv)
-    fields = extract_fields(filename, symbol_list)
-    print(f"Filename: {filename}")
-    for k, v in fields.items():
-        print(f"{k}: {v}")
+    import json
+    output = {}
+    try:
+        if len(sys.argv) < 3:
+            output["success"] = False
+            output["error"] = "Usage: python extract_setfilename_fields.py SymbolList.csv filename.set"
+        else:
+            symbol_csv = sys.argv[1]
+            filename = sys.argv[2]
+            symbol_list = load_symbol_list(symbol_csv)
+            fields = extract_fields(filename, symbol_list)
+            output["success"] = True
+            output["error"] = ""
+            output.update(fields)  # Flatten fields into top-level output
+    except Exception as e:
+        output["success"] = False
+        output["error"] = str(e)
+    print(json.dumps(output))

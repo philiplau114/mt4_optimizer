@@ -93,5 +93,5 @@ if __name__ == "__main__":
         Step=2
     )
 
-    print("File Name:", file_name)
-    print("Magic Number:", magic_number)
+    # print("File Name:", file_name)
+    # print("Magic Number:", magic_number)

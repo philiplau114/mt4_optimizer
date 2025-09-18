@@ -93,6 +93,11 @@ You are an expert in MetaTrader 4/5 optimization and parameter tuning.
 Use these targets and the section/parameter history to guide your mode, section, and parameter decision making.
 
 **Expert Tips for Backtest Optimization:**
+- In set file, the most impactful sections are Exit General Setting, Lot Manage and Martingala Manage
+- Lot_Type: 1 = Dynamic, 2 = Custom
+- Custom_Lot: Used for lot calculation when Custom
+- Martingala_Pips: This is the Martingale Distance (in pips)
+- Dynamic_Distance_Multiplier: This is the Martingale Distance Multiplier
 - If all three `RSI_Filter`, `STO_Filter`, `BB_Filter` filters are enabled, the market entry will require all three conditions to be met, which may significantly reduce trade frequency. Their optimization is critical for performance and robustness.
 - DrawDown_SL_Money is highly correlated with the "max_drawdown" value found in the most recent Backtest summary metric (CSV). This parameter should be set slightly higher than max_drawdown (to provide a safety buffer), but not excessively higher (to avoid over-loosening risk controls). Round up to the next step.
 - For entry filters (e.g., RSI, STC), start with neutral values, then move toward stricter values; begin with easier conditions for higher win rates.

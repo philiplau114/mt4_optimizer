@@ -1,6 +1,12 @@
 import pandas as pd
 import numpy as np
 import argparse
+import logging
+
+logging.getLogger().handlers = []  # Remove all handlers
+logging.disable(logging.CRITICAL)  # Disable all logging
+logger = logging.getLogger(__name__)
+
 from datetime import datetime
 
 def read_mt4_csv(csv_path):
@@ -49,11 +55,11 @@ def filter_bars_by_date_range(bars, start_date, end_date):
 
 def print_analysed_period(bars):
     if len(bars) == 0:
-        print("No bars to analyse.")
+        logger.info("No bars to analyse.")
         return
     start = bars['datetime'].iloc[0]
     end = bars['datetime'].iloc[-1]
-    print(f"\nAnalysed from {start.strftime('%Y.%m.%d %H:%M')} to {end.strftime('%Y.%m.%d %H:%M')}\n")
+    logger.info(f"\nAnalysed from {start.strftime('%Y.%m.%d %H:%M')} to {end.strftime('%Y.%m.%d %H:%M')}\n")
 
 def zigzag_mt4_pivots(bars, depth, deviation, backstep):
     lows = bars['low'].values
@@ -259,16 +265,16 @@ def wave_band_stats_mt4(waves, percentiles):
 
 def print_band(name, stats, percent):
     if not stats: return
-    print(f"{name} Wave Frequency ({percent}%): {int(stats['min_pips'])} Pips - {int(stats['max_pips'])} Pips")
-    print(f"Total: {int(stats['total_bars'])} bars with {stats['total_pips']:.1f} pips")
-    print(f"Average: {stats['avg_bars']:.1f} bars with {stats['avg_pips']:.1f} pips")
-    print(f"Longest: {int(stats['longest_bars'])} bars with {stats['longest_pips']:.1f} pips")
-    print(f"Shortest: {int(stats['shortest_bars'])} bars with {stats['shortest_pips']:.1f} pips\n")
+    logger.info(f"{name} Wave Frequency ({percent}%): {int(stats['min_pips'])} Pips - {int(stats['max_pips'])} Pips")
+    logger.info(f"Total: {int(stats['total_bars'])} bars with {stats['total_pips']:.1f} pips")
+    logger.info(f"Average: {stats['avg_bars']:.1f} bars with {stats['avg_pips']:.1f} pips")
+    logger.info(f"Longest: {int(stats['longest_bars'])} bars with {stats['longest_pips']:.1f} pips")
+    logger.info(f"Shortest: {int(stats['shortest_bars'])} bars with {stats['shortest_pips']:.1f} pips\n")
 
 def print_wave_samples(waves, count=10):
-    print(f"\nWaves: First {count} entries")
+    logger.info(f"\nWaves: First {count} entries")
     for w in waves[:count]:
-        print(f"bars={w['bars']:.1f}, pips={w['pips']:.1f}, start={w['start']}, end={w['end']}")
+        logger.info(f"bars={w['bars']:.1f}, pips={w['pips']:.1f}, start={w['start']}, end={w['end']}")
 
 def export_pivots_to_csv(pivots, filename):
     df = pd.DataFrame({
@@ -314,14 +320,14 @@ def main():
             end_dt = datetime.strptime(args.end_date, "%Y-%m-%d %H:%M")
             bars = filter_bars_by_date_range(bars, start_dt, end_dt)
         except Exception as e:
-            print("Error parsing start/end date. Please use the format YYYY-MM-DD HH:MM")
+            logger.info("Error parsing start/end date. Please use the format YYYY-MM-DD HH:MM")
             return
 
     print_analysed_period(bars)
     pivots = zigzag_mt4_pivots(bars, args.depth, args.deviation, args.backstep)
-    print("First 20 pivots from Python:")
+    logger.info("First 20 pivots from Python:")
     for p in pivots[:20]:
-        print(f"{p[0]}, {p[1]:.5f}, {p[2]}")
+        logger.info(f"{p[0]}, {p[1]:.5f}, {p[2]}")
     waves = calculate_waves_from_pivots(pivots)
     waves_filtered = filter_waves(waves, args.percentage, args.force_factor, args.deviation)
     print_wave_samples(waves_filtered, count=10)
@@ -333,10 +339,10 @@ def main():
 
     if args.export_pivots:
         export_pivots_to_csv(pivots, args.export_pivots)
-        print(f"Exported pivots to {args.export_pivots}")
+        logger.info(f"Exported pivots to {args.export_pivots}")
     if args.export_waves:
         export_waves_to_csv(waves_filtered, args.export_waves)
-        print(f"Exported waves to {args.export_waves}")
+        logger.info(f"Exported waves to {args.export_waves}")
 
 def get_wave_analysis_result_block(
     csv_path,
@@ -355,7 +361,6 @@ def get_wave_analysis_result_block(
     """
     import io
     from datetime import datetime
-
     bars = read_mt4_csv(csv_path)
 
     if start_date and end_date:

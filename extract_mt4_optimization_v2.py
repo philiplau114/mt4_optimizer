@@ -174,6 +174,7 @@ def evaluate_pass(p, criteria):
 
 def insert_into_db(report, db_path, step_id, criteria):
     conn = sqlite3.connect(db_path)
+    #conn.execute("PRAGMA key = 'Kh78784bt!'")
     cur = conn.cursor()
     # Insert report
     cur.execute("""
@@ -435,6 +436,7 @@ def get_top_n_passes(db_path, report_id, weights, top_n, fuzzy_threshold=0.9, di
     """
 
     conn = sqlite3.connect(db_path)
+    #conn.execute("PRAGMA key = 'Kh78784bt!'")
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
     cur.execute(sql, (report_id, report_id, dist_threshold))
@@ -501,6 +503,7 @@ def insert_set_file_artifacts(
     """
     params = (step_id, artifact_type, file_path, meta_json, file_blob, link_type, link_id)
     conn = sqlite3.connect(db_path)
+    #conn.execute("PRAGMA key = 'Kh78784bt!'")
     try:
         cur = conn.cursor()
         cur.execute(sql, params)
@@ -572,6 +575,7 @@ def process_optimization_report(
     report_id = insert_into_db(report, db_path, step_id, criteria)
     # Query for best pass_number (among passes that passed criteria)
     conn = sqlite3.connect(db_path)
+    #conn.execute("PRAGMA key = 'Kh78784bt!'")
     cur = conn.cursor()
     cur.execute("""
         SELECT pass_number FROM optimization_passes 
@@ -605,28 +609,150 @@ def process_optimization_report(
 
     return json.dumps({"best_pass_number": best_pass_number})
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process MT4 Optimization HTML report and store filtered results in DB.")
-    parser.add_argument("HTML_REPORT_PATH", type=str, help="Path to the MT4 HTML optimization report")
-    parser.add_argument("DB_PATH", type=str, help="Path to the SQLite database file")
-    parser.add_argument("STEP_ID", type=int, help="Step ID for the optimization report")
-    parser.add_argument("--config_xlsx", type=str, default="C:\\Users\\Philip\\Documents\\UiPath\\MT4 Backtesting Automation\\Data\\Config.xlsx", help="Path to Config.xlsx (with performance_criteria, optimization_weights, optimization_setting)")
-    parser.add_argument("--topn", action="store_true", help="Return Top N passes instead of just the best")
-    args = parser.parse_args()
+# if __name__ == "__main__":
+#     parser = argparse.ArgumentParser(description="Process MT4 Optimization HTML report and store filtered results in DB.")
+#     parser.add_argument("HTML_REPORT_PATH", type=str, help="Path to the MT4 HTML optimization report")
+#     parser.add_argument("DB_PATH", type=str, help="Path to the SQLite database file")
+#     parser.add_argument("STEP_ID", type=int, help="Step ID for the optimization report")
+#     parser.add_argument("--config_xlsx", type=str, default="C:\\Users\\Philip\\Documents\\UiPath\\MT4 Backtesting Automation\\Data\\Config.xlsx", help="Path to Config.xlsx (with performance_criteria, optimization_weights, optimization_setting)")
+#     parser.add_argument("--topn", action="store_true", help="Return Top N passes instead of just the best")
+#     args = parser.parse_args()
+#
+#     if args.topn:
+#         topn_result = process_optimization_report_topn(
+#             args.HTML_REPORT_PATH,
+#             args.DB_PATH,
+#             args.STEP_ID,
+#             args.config_xlsx
+#         )
+#         print(topn_result)
+#     else:
+#         best_pass_number = process_optimization_report(
+#             args.HTML_REPORT_PATH,
+#             args.DB_PATH,
+#             args.STEP_ID,
+#             perf_criteria_path=args.config_xlsx
+#         )
+#         print(f"Best pass_number for step_id={args.STEP_ID}: {best_pass_number}")
 
-    if args.topn:
-        topn_result = process_optimization_report_topn(
-            args.HTML_REPORT_PATH,
-            args.DB_PATH,
-            args.STEP_ID,
-            args.config_xlsx
-        )
-        print(topn_result)
-    else:
-        best_pass_number = process_optimization_report(
-            args.HTML_REPORT_PATH,
-            args.DB_PATH,
-            args.STEP_ID,
-            perf_criteria_path=args.config_xlsx
-        )
-        print(f"Best pass_number for step_id={args.STEP_ID}: {best_pass_number}")
+# New Main to output JSON with success/error/data and prepare for pyinstall packaging for integration with uipath
+# if __name__ == "__main__":
+#     import argparse
+#     import json
+#     output = {}
+#     try:
+#         parser = argparse.ArgumentParser(description="Process MT4 Optimization HTML report and store filtered results in DB.")
+#         parser.add_argument("HTML_REPORT_PATH", type=str, help="Path to the MT4 HTML optimization report")
+#         parser.add_argument("DB_PATH", type=str, help="Path to the SQLite database file")
+#         parser.add_argument("STEP_ID", type=int, help="Step ID for the optimization report")
+#         parser.add_argument("--config_xlsx", type=str, default="C:\\Users\\Philip\\Documents\\UiPath\\MT4 Backtesting Automation\\Data\\Config.xlsx", help="Path to Config.xlsx (with performance_criteria, optimization_weights, optimization_setting)")
+#         parser.add_argument("--topn", action="store_true", help="Return Top N passes instead of just the best")
+#         args = parser.parse_args()
+#
+#         output["success"] = True
+#         output["error"] = ""
+#         if args.topn:
+#             topn_result = process_optimization_report_topn(
+#                 args.HTML_REPORT_PATH,
+#                 args.DB_PATH,
+#                 args.STEP_ID,
+#                 args.config_xlsx
+#             )
+#             try:
+#                 result_dict = json.loads(topn_result)
+#                 if isinstance(result_dict, dict):
+#                     output.update(result_dict)  # Flatten keys into output
+#                 else:
+#                     output["result"] = result_dict
+#             except Exception:
+#                 output["result"] = topn_result
+#         else:
+#             best_pass_number = process_optimization_report(
+#                 args.HTML_REPORT_PATH,
+#                 args.DB_PATH,
+#                 args.STEP_ID,
+#                 perf_criteria_path=args.config_xlsx
+#             )
+#             try:
+#                 result_dict = json.loads(best_pass_number)
+#                 if isinstance(result_dict, dict):
+#                     output.update(result_dict)
+#                 else:
+#                     output["best_pass_number"] = result_dict
+#             except Exception:
+#                 output["best_pass_number"] = best_pass_number
+#     except Exception as e:
+#         output["success"] = False
+#         output["error"] = str(e)
+#     print(json.dumps(output))
+
+#remove the argparse parser and use direct sys.argv index-based argument parsing, so your script will accept arguments in a strict positional order, making it compatible with PowerShell's --% operator (which simply passes all arguments as-is to the EXE).
+if __name__ == "__main__":
+    import sys
+    import json
+
+    output = {}
+    try:
+        # Remove '--%' from sys.argv if present (PowerShell --% operator)
+        if '--%' in sys.argv:
+            sys.argv.remove('--%')
+
+        # Usage: HTML_REPORT_PATH DB_PATH STEP_ID [CONFIG_XLSX] [TOPN]
+        if len(sys.argv) < 4:
+            print(json.dumps({
+                "success": False,
+                "error": "Insufficient arguments. Usage: HTML_REPORT_PATH DB_PATH STEP_ID [CONFIG_XLSX] [TOPN]"
+            }))
+            sys.exit(1)
+
+        HTML_REPORT_PATH = sys.argv[1]
+        DB_PATH = sys.argv[2]
+        STEP_ID = int(sys.argv[3])
+
+        # Defaults
+        CONFIG_XLSX = "C:\\Users\\Philip\\Documents\\UiPath\\MT4 Backtesting Automation\\Data\\Config.xlsx"
+        TOPN = False
+
+        if len(sys.argv) > 4:
+            CONFIG_XLSX = sys.argv[4]
+        if len(sys.argv) > 5:
+            # Acceptable values for TOPN: "true", "True", "1"
+            TOPN = str(sys.argv[5]).lower() in ['true', '1']
+
+        output["success"] = True
+        output["error"] = ""
+
+        if TOPN:
+            topn_result = process_optimization_report_topn(
+                HTML_REPORT_PATH,
+                DB_PATH,
+                STEP_ID,
+                CONFIG_XLSX
+            )
+            try:
+                result_dict = json.loads(topn_result)
+                if isinstance(result_dict, dict):
+                    output.update(result_dict)
+                else:
+                    output["result"] = result_dict
+            except Exception:
+                output["result"] = topn_result
+        else:
+            best_pass_number = process_optimization_report(
+                HTML_REPORT_PATH,
+                DB_PATH,
+                STEP_ID,
+                perf_criteria_path=CONFIG_XLSX
+            )
+            try:
+                result_dict = json.loads(best_pass_number)
+                if isinstance(result_dict, dict):
+                    output.update(result_dict)
+                else:
+                    output["best_pass_number"] = result_dict
+            except Exception:
+                output["best_pass_number"] = best_pass_number
+    except Exception as e:
+        output["success"] = False
+        output["error"] = str(e)
+    print(json.dumps(output))

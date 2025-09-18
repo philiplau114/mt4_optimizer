@@ -1,4 +1,9 @@
 import re
+import logging
+
+logging.getLogger().handlers = []  # Remove all handlers
+logging.disable(logging.CRITICAL)  # Disable all logging
+logger = logging.getLogger(__name__)
 
 def normalize_param_name(name):
     """Normalize parameter names for loose matching and comparison."""
@@ -19,7 +24,7 @@ def init_set_file(set_file_path):
 
     with open(set_file_path, 'w', encoding='utf-8') as f:
         f.write(updated_content)
-    print(f"Set file initialized: {set_file_path}")
+    logger.info(f"Set file initialized: {set_file_path}")
 
 def parse_set_file(set_file_path):
     """Parse the .set file into an ordered list of (param, value) tuples."""
@@ -93,7 +98,7 @@ def update_parameters(input_set_path, suggestions, output_set_path):
         cleaned_params.append((k, v))
 
     write_set_file(cleaned_params, output_set_path)
-    print(f"Set file updated and written to {output_set_path}")
+    logger.info(f"Set file updated and written to {output_set_path}")
 
 def update_single_parameter(set_file_path, parameter_name, parameter_value, output_set_file_path=None):
     """
@@ -116,7 +121,7 @@ def update_single_parameter(set_file_path, parameter_name, parameter_value, outp
 
     out_path = output_set_file_path if output_set_file_path else set_file_path
     write_set_file(params, out_path)
-    print(f"Parameter '{parameter_name}' updated to '{parameter_value}' in {out_path}")
+    logger.info(f"Parameter '{parameter_name}' updated to '{parameter_value}' in {out_path}")
 
 if __name__ == "__main__":
     import argparse

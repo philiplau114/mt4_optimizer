@@ -2,6 +2,9 @@ import re
 import json
 import sys
 import logging
+#logging.disable(logging.CRITICAL)
+logger = logging.getLogger(__name__)
+
 import os
 import numpy as np
 import sqlite3
@@ -9,31 +12,30 @@ import math
 import datetime
 from bs4 import BeautifulSoup
 
-sys.path.append(r'C:\Users\Philip\Documents\GitHub\mt4_optimizer')
 import build_filename
 from build_filename import build_filename
 from set_file_updater import update_single_parameter
 
 from wave_analysis import get_wave_analysis_result_block
 # --- Logging Setup ---
-class FlushFileHandler(logging.FileHandler):
-    def emit(self, record):
-        super().emit(record)
-        self.flush()
-
-LOG_FILE = os.path.join(os.path.dirname(__file__), "extract_mt4_report.log")
-log_to_file = False  # Set to False to disable file logging
-
-handlers = []
-if log_to_file:
-    handlers.append(FlushFileHandler(LOG_FILE, encoding='utf-8'))
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=handlers
-)
-logger = logging.getLogger(__name__)
+# class FlushFileHandler(logging.FileHandler):
+#     def emit(self, record):
+#         super().emit(record)
+#         self.flush()
+#
+# LOG_FILE = os.path.join(os.path.dirname(__file__), "extract_mt4_report.log")
+# log_to_file = True  # Set to False to disable file logging
+#
+# handlers = []
+# if log_to_file:
+#     handlers.append(FlushFileHandler(LOG_FILE, encoding='utf-8'))
+#
+# logging.basicConfig(
+#     level=logging.INFO,
+#     format="%(asctime)s [%(levelname)s] %(message)s",
+#     handlers=handlers
+# )
+# logger = logging.getLogger(__name__)
 
 def get_wave_analysis_parameters_from_config(config_xlsx_path, sheet_name="WaveAnalysisConfig"):
     """
@@ -139,17 +141,41 @@ def read_performance_criteria_xlsx(path, sheet_name="performance_criteria"):
     logger.info(f"Performance criteria loaded from {path}: {criteria}")
     return criteria
 
+# def parse_period_info(period_str):
+#     m_period = re.search(r"\(([^)]+)\)", period_str)
+#     period = m_period.group(1) if m_period else ""
+#     m_start = re.search(r"\)\s+(\d{4}\.\d{2}\.\d{2})", period_str)
+#     start_date_str = m_start.group(1) if m_start else ""
+#     m_end = re.search(r"\((?:[^\d]+)?(\d{4}\.\d{2}\.\d{2})\s*-\s*(\d{4}\.\d{2}\.\d{2})\)", period_str)
+#     end_date_str = m_end.group(2) if m_end else ""
+#     start_date = datetime.datetime.strptime(start_date_str, "%Y.%m.%d").date() if start_date_str else None
+#     end_date = datetime.datetime.strptime(end_date_str, "%Y.%m.%d").date() if end_date_str else None
+#     logger.debug(f"Parsed period info: period={period}, start_date={start_date}, end_date={end_date}")
+#     return period, start_date, end_date
+
 def parse_period_info(period_str):
+    # PERIOD (e.g., M30)
     m_period = re.search(r"\(([^)]+)\)", period_str)
     period = m_period.group(1) if m_period else ""
+
+    # DATA START DATE (after first parenthesis)
     m_start = re.search(r"\)\s+(\d{4}\.\d{2}\.\d{2})", period_str)
-    start_date_str = m_start.group(1) if m_start else ""
-    m_end = re.search(r"\((?:[^\d]+)?(\d{4}\.\d{2}\.\d{2})\s*-\s*(\d{4}\.\d{2}\.\d{2})\)", period_str)
-    end_date_str = m_end.group(2) if m_end else ""
-    start_date = datetime.datetime.strptime(start_date_str, "%Y.%m.%d").date() if start_date_str else None
-    end_date = datetime.datetime.strptime(end_date_str, "%Y.%m.%d").date() if end_date_str else None
-    logger.debug(f"Parsed period info: period={period}, start_date={start_date}, end_date={end_date}")
-    return period, start_date, end_date
+    data_start_date_str = m_start.group(1) if m_start else ""
+    data_start_date = datetime.datetime.strptime(data_start_date_str, "%Y.%m.%d").date() if data_start_date_str else None
+
+    # DATA END DATE (before last parenthesis, after dash)
+    m_data_end = re.search(r"\)\s+\d{4}\.\d{2}\.\d{2} [\d:]+ - (\d{4}\.\d{2}\.\d{2})", period_str)
+    data_end_date_str = m_data_end.group(1) if m_data_end else ""
+    data_end_date = datetime.datetime.strptime(data_end_date_str, "%Y.%m.%d").date() if data_end_date_str else None
+
+    # BACKTEST START/END (in last parenthesis)
+    m_backtest = re.search(r"\((\d{4}\.\d{2}\.\d{2})\s*-\s*(\d{4}\.\d{2}\.\d{2})\)", period_str)
+    backtest_start_date_str = m_backtest.group(1) if m_backtest else ""
+    backtest_end_date_str = m_backtest.group(2) if m_backtest else ""
+    backtest_start_date = datetime.datetime.strptime(backtest_start_date_str, "%Y.%m.%d").date() if backtest_start_date_str else None
+    backtest_end_date = datetime.datetime.strptime(backtest_end_date_str, "%Y.%m.%d").date() if backtest_end_date_str else None
+
+    return period, data_start_date, data_end_date, backtest_start_date, backtest_end_date
 
 def parse_metrics(html_string):
     soup = BeautifulSoup(html_string, "html.parser")
@@ -191,10 +217,12 @@ def parse_metrics(html_string):
     metrics["Loss trades (% of total)"] = extract_row("Loss trades (% of total)")
 
     period_str = metrics.get("Period", "")
-    period, start_date, end_date = parse_period_info(period_str)
+    period, start_date, end_date, backtest_start_date, backtest_end_date = parse_period_info(period_str)
     metrics["Period"] = period
     metrics["start_date"] = start_date
     metrics["end_date"] = end_date
+    metrics["backtest_start_date"] = backtest_start_date
+    metrics["backtest_end_date"] = backtest_end_date
 
     for row in table.find_all("tr"):
         tds = row.find_all("td")
@@ -657,6 +685,7 @@ def insert_set_file_artifacts(
     """
     params = (step_id, artifact_type, file_path, meta_json, file_blob, link_type, link_id)
     conn = sqlite3.connect(db_path)
+    #conn.execute("PRAGMA key = 'Kh78784bt!'")
     try:
         cur = conn.cursor()
         cur.execute(sql, params)
@@ -798,8 +827,8 @@ def process_mt4_report(
     )
 
     connection = sqlite3.connect(db_path)
+    #connection.execute("PRAGMA key = 'Kh78784bt!'")
     cursor = connection.cursor()
-
     try:
         cursor.execute(summary_sql, summary_values)
         # Get the test_metrics id (lastrowid from the test_metrics insert)
@@ -855,8 +884,8 @@ def process_mt4_report(
             Symbol = metrics.get("Symbol", "")
             Symbol_code = Symbol.split()[0]  # Gets "AUDCAD"
             Timeframe = metrics.get("period", "") or metrics.get("Period", "")
-            StartDate = metrics.get("start_date")
-            EndDate = metrics.get("end_date")
+            StartDate = metrics.get("backtest_start_date")
+            EndDate = metrics.get("backtest_end_date")
 
             # Format start/end dates for filename convention
             if StartDate:
@@ -946,32 +975,139 @@ def process_mt4_report(
         logger.info("Processing complete.")
         return json.dumps({"result": result})
 
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser(description="Process MT4 Backtest Report HTML and insert results into DB.")
-    parser.add_argument("html_file", help="Path to the MT4 backtest report HTML file")
-    parser.add_argument("--step_id", type=int, required=True, help="Step ID for the report")
-    parser.add_argument("--metric_type", type=str, required=True, help="Type of metrics/report")
-    parser.add_argument("--EA_name", type=str, required=True, help="EA name for filename")
-    parser.add_argument("--input_set_file", type=str, required=True, help="Input .set file to copy and update")
-    parser.add_argument("--output_set_file_path", type=str, default=r"C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\\", help="Directory to save output set file")
-    parser.add_argument("--db_path", type=str, default=r"C:\Users\Philip\Documents\GitHub\EA_Automation\EA_Automation.db", help="Path to SQLite database")
-    parser.add_argument("--summary_metrics_path", type=str, default="_summary_metrics.csv", help="Path to output summary metrics CSV file")
-    parser.add_argument("--config_xlsx", type=str, required=False, help="Path to config.xlsx")
-    parser.add_argument("--perf_criteria_xlsx", type=str, required=False, help="Path to performance_criteria.xlsx")
-    parser.add_argument("--optimization_pass_id", type=int, required=False, help="Optimization pass ID")
-    args = parser.parse_args()
+# if __name__ == "__main__":
+#     import argparse
+#     parser = argparse.ArgumentParser(description="Process MT4 Backtest Report HTML and insert results into DB.")
+#     parser.add_argument("html_file", help="Path to the MT4 backtest report HTML file")
+#     parser.add_argument("--step_id", type=int, required=True, help="Step ID for the report")
+#     parser.add_argument("--metric_type", type=str, required=True, help="Type of metrics/report")
+#     parser.add_argument("--EA_name", type=str, required=True, help="EA name for filename")
+#     parser.add_argument("--input_set_file", type=str, required=True, help="Input .set file to copy and update")
+#     parser.add_argument("--output_set_file_path", type=str, default=r"C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\\", help="Directory to save output set file")
+#     parser.add_argument("--db_path", type=str, default=r"C:\Users\Philip\Documents\GitHub\EA_Automation\EA_Automation.db", help="Path to SQLite database")
+#     parser.add_argument("--summary_metrics_path", type=str, default="_summary_metrics.csv", help="Path to output summary metrics CSV file")
+#     parser.add_argument("--config_xlsx", type=str, required=False, help="Path to config.xlsx")
+#     parser.add_argument("--perf_criteria_xlsx", type=str, required=False, help="Path to performance_criteria.xlsx")
+#     parser.add_argument("--optimization_pass_id", type=int, required=False, help="Optimization pass ID")
+#     args = parser.parse_args()
+#
+#     process_mt4_report(
+#         args.html_file,
+#         args.step_id,
+#         args.metric_type,
+#         args.EA_name,
+#         args.input_set_file,
+#         output_set_file_path=args.output_set_file_path,
+#         db_path=args.db_path,
+#         summary_metrics_path=args.summary_metrics_path,
+#         config_xlsx_path=args.config_xlsx,  # Pass the path, not dict
+#         perf_criteria_xlsx_path=args.perf_criteria_xlsx,
+#         optimization_pass_id = args.optimization_pass_id  # Optional, can be None
+#     )
 
-    process_mt4_report(
-        args.html_file,
-        args.step_id,
-        args.metric_type,
-        args.EA_name,
-        args.input_set_file,
-        output_set_file_path=args.output_set_file_path,
-        db_path=args.db_path,
-        summary_metrics_path=args.summary_metrics_path,
-        config_xlsx_path=args.config_xlsx,  # Pass the path, not dict
-        perf_criteria_xlsx_path=args.perf_criteria_xlsx,
-        optimization_pass_id = args.optimization_pass_id  # Optional, can be None
-    )
+# New Main to output JSON with success/error/data and prepare for pyinstall packaging for integration with uipath
+# if __name__ == "__main__":
+#     import argparse
+#     import json
+#     output = {}
+#     try:
+#         parser = argparse.ArgumentParser(description="Process MT4 Backtest Report HTML and insert results into DB.")
+#         parser.add_argument("html_file", help="Path to the MT4 backtest report HTML file")
+#         parser.add_argument("--step_id", type=int, required=True, help="Step ID for the report")
+#         parser.add_argument("--metric_type", type=str, required=True, help="Type of metrics/report")
+#         parser.add_argument("--EA_name", type=str, required=True, help="EA name for filename")
+#         parser.add_argument("--input_set_file", type=str, required=True, help="Input .set file to copy and update")
+#         parser.add_argument("--output_set_file_path", type=str, default=r"C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\\", help="Directory to save output set file")
+#         parser.add_argument("--db_path", type=str, default=r"C:\Users\Philip\Documents\GitHub\EA_Automation\EA_Automation.db", help="Path to SQLite database")
+#         parser.add_argument("--summary_metrics_path", type=str, default="_summary_metrics.csv", help="Path to output summary metrics CSV file")
+#         parser.add_argument("--config_xlsx", type=str, required=False, help="Path to config.xlsx")
+#         parser.add_argument("--perf_criteria_xlsx", type=str, required=False, help="Path to performance_criteria.xlsx")
+#         parser.add_argument("--optimization_pass_id", type=int, required=False, help="Optimization pass ID")
+#         args = parser.parse_args()
+#
+#         result = process_mt4_report(
+#             args.html_file,
+#             args.step_id,
+#             args.metric_type,
+#             args.EA_name,
+#             args.input_set_file,
+#             output_set_file_path=args.output_set_file_path,
+#             db_path=args.db_path,
+#             summary_metrics_path=args.summary_metrics_path,
+#             config_xlsx_path=args.config_xlsx,
+#             perf_criteria_xlsx_path=args.perf_criteria_xlsx,
+#             optimization_pass_id=args.optimization_pass_id
+#         )
+#         output["success"] = True
+#         output["error"] = ""
+#         try:
+#             result_dict = json.loads(result)
+#             if isinstance(result_dict, dict):
+#                 output.update(result_dict)  # Flatten keys into output
+#             else:
+#                 output["result"] = result_dict
+#         except Exception:
+#             output["result"] = result
+#     except Exception as e:
+#         output["success"] = False
+#         output["error"] = str(e)
+#     print(json.dumps(output))
+
+#remove the argparse parser and use direct sys.argv index-based argument parsing, so your script will accept arguments in a strict positional order, making it compatible with PowerShell's --% operator (which simply passes all arguments as-is to the EXE).
+if __name__ == "__main__":
+    import sys
+    import json
+
+    output = {}
+    try:
+        # Remove '--%' if present from PowerShell
+        if '--%' in sys.argv:
+            sys.argv.remove('--%')
+
+        # Usage: html_file step_id metric_type EA_name input_set_file [output_set_file_path] [db_path] [summary_metrics_path] [config_xlsx] [perf_criteria_xlsx] [optimization_pass_id]
+        if len(sys.argv) < 6:
+            print(json.dumps({
+                "success": False,
+                "error": "Insufficient arguments. Usage: html_file step_id metric_type EA_name input_set_file [output_set_file_path] [db_path] [summary_metrics_path] [config_xlsx] [perf_criteria_xlsx] [optimization_pass_id]"
+            }))
+            sys.exit(1)
+
+        html_file = sys.argv[1]
+        step_id = int(sys.argv[2])
+        metric_type = sys.argv[3]
+        EA_name = sys.argv[4]
+        input_set_file = sys.argv[5]
+        output_set_file_path = sys.argv[6] if len(sys.argv) > 6 else r"C:\Users\Philip\Documents\GitHub\EA_Automation\02_backtest\\"
+        db_path = sys.argv[7] if len(sys.argv) > 7 else r"C:\Users\Philip\Documents\GitHub\EA_Automation\EA_Automation.db"
+        summary_metrics_path = sys.argv[8] if len(sys.argv) > 8 else "_summary_metrics.csv"
+        config_xlsx = sys.argv[9] if len(sys.argv) > 9 else None
+        perf_criteria_xlsx = sys.argv[10] if len(sys.argv) > 10 else None
+        optimization_pass_id = int(sys.argv[11]) if len(sys.argv) > 11 else None
+
+        result = process_mt4_report(
+            html_file,
+            step_id,
+            metric_type,
+            EA_name,
+            input_set_file,
+            output_set_file_path=output_set_file_path,
+            db_path=db_path,
+            summary_metrics_path=summary_metrics_path,
+            config_xlsx_path=config_xlsx,
+            perf_criteria_xlsx_path=perf_criteria_xlsx,
+            optimization_pass_id=optimization_pass_id
+        )
+        output["success"] = True
+        output["error"] = ""
+        try:
+            result_dict = json.loads(result)
+            if isinstance(result_dict, dict):
+                output.update(result_dict)
+            else:
+                output["result"] = result_dict
+        except Exception:
+            output["result"] = result
+    except Exception as e:
+        output["success"] = False
+        output["error"] = str(e)
+    print(json.dumps(output))
